@@ -1,0 +1,18 @@
+{
+  "name": "Ehl-i Sünnet Günlük Dualar (52 Şifalı & Koruyucu Dua)",
+  "short_name": "Günlük Dualar",
+  "description": "Ehl-i Sünnet itikadına uygun, büyük harfli, harekeli ve Türkçe anlamlı 52 günlük korunma, bereket, şifa ve zikir duaları.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050c14",
+  "theme_color": "#050c14",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

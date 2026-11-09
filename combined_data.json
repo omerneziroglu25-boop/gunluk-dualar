@@ -1,0 +1,1521 @@
+{
+  "esmaList": [
+    {
+      "id": 1,
+      "ar": "اللَّهُ",
+      "tr": "Allah",
+      "m": "Kâinatın tek yaratıcısı, ibadete lâyık yegâne mâbud, bütün kemâl sıfatları kendisinde toplayan Zât-ı Zülcelâl.",
+      "eb": 66,
+      "v": "Her türlü hayır kapısının açılması ve kalbin nurlanması için günde 66 kez okunur.",
+      "gd": "İlâhî! Sen Zatınla kâimsin, her şey Seninle kâimdir. Abdülkadir Geylani hürmetine kalbimi mârifetullah nuruyla aydınlat, nefsimi Sana ram eyle."
+    },
+    {
+      "id": 2,
+      "ar": "الرَّحْمَنُ",
+      "tr": "Er-Rahmân",
+      "m": "Dünyada inanan veya inanmayan bütün mahlûkata merhamet eden, rızıklandıran ve nimet veren.",
+      "eb": 298,
+      "v": "Kalp katılığı, gazap ve öfkeyi gidermek, merhamet ve sekîneye ermek için.",
+      "gd": "Yâ Rahmân! Rahmetin her şeyi kuşatmıştır; şu âciz ve muhtaç kulunu rahmet deryana daldır, kalbime şefkat ve merhamet ihsan eyle."
+    },
+    {
+      "id": 3,
+      "ar": "الرَّحِيمُ",
+      "tr": "Er-Rahîm",
+      "m": "Âhirette sadece mü'min kullarına hususî merhamet ve lütuf gösteren, sonsuz ihsan sahibi.",
+      "eb": 258,
+      "v": "Maddi ve manevi rızık bolluğu, afiyet ve âhiret saadeti için.",
+      "gd": "Yâ Rahîm! Âhiret gününün dehşetinden Sana sığınıyorum; Gavs-ı Azam usulüyle Sana yalvarıyorum, beni affınla sar ve cemâlinle müşerref eyle."
+    },
+    {
+      "id": 4,
+      "ar": "الْمَلِكُ",
+      "tr": "El-Melik",
+      "m": "Bütün mülkün, görünen ve görünmeyen âlemlerin mutlak sahibi ve yegâne hâkimi.",
+      "eb": 90,
+      "v": "Gönül zenginliği, heybet, itibar ve manevi derecelerin yükselmesi için.",
+      "gd": "Yâ Melik! Mülk bütünüyle Senindir, benim hiçbir varlığım yoktur; beni nefsimin köleliğinden kurtarıp Sana lâyık bir kul eyle."
+    },
+    {
+      "id": 5,
+      "ar": "الْقُدُّوسُ",
+      "tr": "El-Kuddûs",
+      "m": "Her türlü noksanlıktan, ayıptan, kusurdan münezzeh, tertemiz ve mukaddes olan.",
+      "eb": 170,
+      "v": "Ruhu ve kalbi günahlardan, vesveseden ve kötü ahlaktan arındırmak için.",
+      "gd": "Yâ Kuddûs! Kalbimi masivadan, günah kirlerinden ve vesveselerden tathir eyle; beni kudsiyet nurunla nurlandır."
+    },
+    {
+      "id": 6,
+      "ar": "السَّلَامُ",
+      "tr": "Es-Selâm",
+      "m": "Kullarını tehlikelerden, afetlerden selâmete çıkaran; cennetteki bahtiyar kullarına selâm eden.",
+      "eb": 131,
+      "v": "Korkulardan emin olmak, iç huzuru, ruhî dinginlik ve şifa bulmak için.",
+      "gd": "Yâ Selâm! Bütün afet, musibet ve kederlerden Sana iltica ediyorum; ruhuma selâmet, haneme dirlik ve sükûnet ver."
+    },
+    {
+      "id": 7,
+      "ar": "الْمُؤْمِنُ",
+      "tr": "El-Mü'min",
+      "m": "Gönüllerde iman ışığı yakan, sığınanları koruyan, güven ve emniyet bahşeden.",
+      "eb": 137,
+      "v": "Düşman şerrinden korunmak, kalpte yakîn ve tahkiki iman elde etmek için.",
+      "gd": "Yâ Mü'min! Kalbime sarsılmaz bir iman, dilime zikr-i dâim ver; beni her türlü zâhirî ve bâtınî korkudan muhafaza eyle."
+    },
+    {
+      "id": 8,
+      "ar": "الْمُهَيْمِنُ",
+      "tr": "El-Müheymin",
+      "m": "Bütün varlıkları gözetip kollayan, koruyan ve her şeyin üzerinde murakabe sahibi olan.",
+      "eb": 145,
+      "v": "Gizli sırlara vâkıf olmak, kalbin uyanık kalması ve hıfz u emân için.",
+      "gd": "Yâ Müheymin! Hâlim Sana ayandır, hiçbir şey Sana gizli kalmaz; beni hıfzının kalesine al, şeytanın ve nefsin tuzaklarından koru."
+    },
+    {
+      "id": 9,
+      "ar": "الْعَزِيزُ",
+      "tr": "El-Azîz",
+      "m": "Mağlup edilmesi asla mümkün olmayan, mutlak galip, izzet ve şeref sahibi.",
+      "eb": 94,
+      "v": "İzzet, şeref, düşmanlara karşı zafer ve zelil olmaktan korunmak için.",
+      "gd": "Yâ Azîz! İzzet ancak Senindir; beni hiçbir kula muhtaç etme, günahların zilletinden kurtarıp tâatin izzetiyle şereflendir."
+    },
+    {
+      "id": 10,
+      "ar": "الْجَبَّارُ",
+      "tr": "El-Cebbâr",
+      "m": "Kırılanları onaran, eksikleri tamamlayan, dilediğini zorla da olsa yaptıran mutlak kudret.",
+      "eb": 206,
+      "v": "Kırık kalplerin tesellisi, haksızlıklara karşı korunma ve heybet için.",
+      "gd": "Yâ Cebbâr! Kalbimin kırıklarını ancak Sen sararsın, hâlimin dağınıklığını Sen düzelt; beni zâlimlerin şerrinden emin eyle."
+    },
+    {
+      "id": 11,
+      "ar": "الْمُتَكَبِّرُ",
+      "tr": "El-Mütekebbir",
+      "m": "Büyüklükte eşi ve benzeri olmayan, azamet ve kibriyâ sahibi yegâne Zât.",
+      "eb": 662,
+      "v": "Maddi ve manevi mertebelerde yükselmek, heybetli ve vakarlı olmak için.",
+      "gd": "Yâ Mütekebbir! Kibriyâ Senin ridândır; beni kibir ve ucub illetinden arındır, Sana karşı tam bir tevazu ve huşû nasip eyle."
+    },
+    {
+      "id": 12,
+      "ar": "الْخَالِقُ",
+      "tr": "El-Hâlık",
+      "m": "Her şeyi yoktan var eden, yaratan, her mahlûkun maddesini ve sûretini takdir eden.",
+      "eb": 731,
+      "v": "İşlerde başarı, zor meselelerin halli ve rızık genişliği için.",
+      "gd": "Yâ Hâlık! Beni yoktan var ettiğin gibi, kalbimde hayırlı ameller halk eyle; beni rızana uygun fiillerde istihdam buyur."
+    },
+    {
+      "id": 13,
+      "ar": "الْبَارِئُ",
+      "tr": "El-Bâri'",
+      "m": "Her şeyi bir örnek ve model olmaksızın, birbiriyle ahenkli ve kusursuzca yaratan.",
+      "eb": 214,
+      "v": "Maddi ve ruhi hastalıklardan şifa bulmak, beden sıhhati için.",
+      "gd": "Yâ Bâri'! Vücuduma sıhhat, ruhuma afiyet bahşet; maddî ve manevî bütün marazlardan beni halâs eyle."
+    },
+    {
+      "id": 14,
+      "ar": "الْمُصَوِّرُ",
+      "tr": "El-Musavvir",
+      "m": "Her mahlûka kendine has, en güzel sûret ve şekli veren Zât.",
+      "eb": 336,
+      "v": "Sanat, zarafet, güzel ahlak ve sâlih evlât sahibi olmak için.",
+      "gd": "Yâ Musavvir! Yaratılışımı güzel kıldığın gibi ahlakımı da güzelleştir; kalbimi muhabbetinin nakışlarıyla süsle."
+    },
+    {
+      "id": 15,
+      "ar": "الْغَفَّارُ",
+      "tr": "El-Gaffâr",
+      "m": "Kullarının günahlarını tekrar tekrar bağışlayan, örten ve cezalandırmaktan vazgeçen.",
+      "eb": 1281,
+      "v": "Günahların affı, tövbelerin kabulü ve manevi perdelerin açılması için.",
+      "gd": "Yâ Gaffâr! Günahlarım dağlar gibi olsa da Senin affın ummanlar gibidir; beni, anamı, babamı ve cümle inananları bağışla."
+    },
+    {
+      "id": 16,
+      "ar": "الْقَهَّارُ",
+      "tr": "El-Kahhâr",
+      "m": "Her şeye her an galip gelen, bütün düşmanları ve zâlimleri kahreden mutlak güç.",
+      "eb": 306,
+      "v": "Nefsi ıslah etmek, düşmanların ve kötü alışkanlıkların tasallutundan kurtulmak için.",
+      "gd": "Yâ Kahhâr! İçimdeki nefis ve hevâ putlarını kahreyle; kalbimi esir almaya çalışan karanlıkları bertaraf et."
+    },
+    {
+      "id": 17,
+      "ar": "الْوَهَّابُ",
+      "tr": "El-Vehhâb",
+      "m": "Karşılıksız, sebepsiz ve hesapsızca nimetleri bol bol ihsan eden cömert Zât.",
+      "eb": 14,
+      "v": "Rızık darlığı çekmemek, ilim ve hikmet kapılarının açılması için.",
+      "gd": "Yâ Vehhâb! Bana ledünnî ilimlerden, hikmet ve feyizden karşılıksız bağışla; beni kimseye muhtaç ettirme."
+    },
+    {
+      "id": 18,
+      "ar": "الرَّزَّاقُ",
+      "tr": "Er-Rezzâk",
+      "m": "Bütün canlıların rızkını veren, bedenlere gıda, ruhlara feyiz bahşeden.",
+      "eb": 308,
+      "v": "Helal rızık bereketi, borçlardan kurtuluş ve maişet darlığının gitmesi için.",
+      "gd": "Yâ Rezzâk! Rızkımı helalinden ve kolaylıkla ihsan eyle; ruhuma marifetullah rızkını gıda kıl."
+    },
+    {
+      "id": 19,
+      "ar": "الْفَتَّاحُ",
+      "tr": "El-Fettâh",
+      "m": "Bütün kilitli kapıları açan, zorlukları kolaylaştıran, kalpleri fethe mazhar kılan.",
+      "eb": 489,
+      "v": "Kapalı kapıların açılması, ferahlık, basiret ve başarı için.",
+      "gd": "Yâ Fettâh! Gönül pencerelerimi aç, karşılaştığım bütün çaresizlik düğümlerini hayırla çöz; kalbime fütuhât kapılarını arala."
+    },
+    {
+      "id": 20,
+      "ar": "الْعَلِيمُ",
+      "tr": "El-Alîm",
+      "m": "Olmuşu, olanı, olacağı; gizliyi ve âşikârı her yönüyle bihakkın bilen.",
+      "eb": 150,
+      "v": "Hafıza kuvveti, ilim tahsili, kalbî uyanıklık ve anlayış keskinliği için.",
+      "gd": "Yâ Alîm! İlmimi artır, beni cehalet karanlığından kurtar; bildiklerimle amel etmeyi ve ihlas üzere kalmayı nasip eyle."
+    },
+    {
+      "id": 21,
+      "ar": "الْقَابِضُ",
+      "tr": "El-Kâbıd",
+      "m": "Dilediğinin rızkını, neşesini kısan, ruhları kabzeden ve sıkan.",
+      "eb": 903,
+      "v": "Nefsin taşkınlıklarını dindirmek, zâlimlerin zulmünü engellemek için.",
+      "gd": "Yâ Kâbıd! Nefsimin taşkınlıklarını dizginle; kalbimi darlıkta da bollukta da rızana teslim kıl."
+    },
+    {
+      "id": 22,
+      "ar": "الْبَاسِطُ",
+      "tr": "El-Bâsıt",
+      "m": "Rızkı, bereketi ve ferahlığı yayan, kalpleri inşirahla genişleten.",
+      "eb": 72,
+      "v": "Ruhî sıkıntı ve depresyondan kurtulmak, rızık ve neşe genişliği için.",
+      "gd": "Yâ Bâsıt! Göğsümü inşirahla genişlet; kalbime neşe, ömrüme bereket, rızkıma vüs'at ihsan eyle."
+    },
+    {
+      "id": 23,
+      "ar": "الْخَافِضُ",
+      "tr": "El-Hâfıd",
+      "m": "Kibirlileri, zâlimleri ve haddi aşanları zelil edip alçaltan.",
+      "eb": 1481,
+      "v": "Düşmanların tuzağını başlarına çevirmek ve kibre düşmekten sakınmak için.",
+      "gd": "Yâ Hâfıd! Hakkı inkâr edenleri zelil kıl; beni kendi gözümde küçük, Senin katında makbul bir kul eyle."
+    },
+    {
+      "id": 24,
+      "ar": "الرَّافِعُ",
+      "tr": "Er-Râfi'",
+      "m": "Mü'min kullarını, tevazu sahiplerini ve dostlarını yücelten, derecelerini yükselten.",
+      "eb": 351,
+      "v": "Toplumda itibar kazanmak, manevi derecelerin ve makamın yükselmesi için.",
+      "gd": "Yâ Râfi'! Derecemi hem dünyada hem âhirette ilim ve takva ile yükselt; Gavs-ı Azam'ın yolundan beni ayırma."
+    },
+    {
+      "id": 25,
+      "ar": "الْمُعِزُّ",
+      "tr": "El-Mu'ız",
+      "m": "Dilediğine izzet, şeref, haysiyet ve üstünlük bahşeden.",
+      "eb": 117,
+      "v": "İtibar, saygı görmek ve zillete düşmemek için.",
+      "gd": "Yâ Mu'ız! Beni takva libasıyla donatarak aziz kıl; hiçbir mahlûkun önünde başımı eğdirme."
+    },
+    {
+      "id": 26,
+      "ar": "الْمُذِلُّ",
+      "tr": "El-Müzill",
+      "m": "Dilediğini zillete düşüren, hor ve hakir kılan mutlak kudret.",
+      "eb": 770,
+      "v": "Zâlimlerin şerrinden korunmak ve onların hilelerini boşa çıkarmak için.",
+      "gd": "Yâ Müzill! Bana ve inananlara tuzak kuran hilekârları zelil eyle; nefsimi günahların karşısında zelil kıl."
+    },
+    {
+      "id": 27,
+      "ar": "السَّمِيعُ",
+      "tr": "Es-Semî'",
+      "m": "Her sesi, fısıltıyı, içten geçen dilekleri ve gizli münacatları işiten.",
+      "eb": 180,
+      "v": "Duaların süratle kabulü, kulak ve işitme sağlığı için.",
+      "gd": "Yâ Semî'! Kalbimin sessiz çığlıklarını ve gizli niyazlarımı işiten Sensin; şu âciz kulunun münacatını kabul eyle."
+    },
+    {
+      "id": 28,
+      "ar": "الْبَصِيرُ",
+      "tr": "El-Basîr",
+      "m": "Her şeyi, karanlık gecede kara taş üstündeki karıncayı dahi gören.",
+      "eb": 302,
+      "v": "Göz sağlığı, basiret açılması ve günahlardan çekinme duygusu için.",
+      "gd": "Yâ Basîr! Gözüme basiret, kalbime feraset ihsan eyle; beni her an Senin murakaben altında olduğumu unutturma."
+    },
+    {
+      "id": 29,
+      "ar": "الْحَكَمُ",
+      "tr": "El-Hakem",
+      "m": "Mutlak hüküm sahibi, hakkı bâtıldan ayıran ve hükmünü kimsenin bozamayacağı Zât.",
+      "eb": 68,
+      "v": "Haksızlıklardan kurtulmak, davalarda hakkın tecellisi ve doğru karar için.",
+      "gd": "Yâ Hakem! Aramızda hak ile hükmeyle; beni her dâim adaletin, hakkın ve sıdkın tarafında kıl."
+    },
+    {
+      "id": 30,
+      "ar": "الْعَدْلُ",
+      "tr": "El-Adl",
+      "m": "Mutlak adalet sahibi, hiçbir kimseye zerre kadar zulmetmeyen.",
+      "eb": 104,
+      "v": "Adaletle muamele görmek, nefsi adalet üzere tutmak ve istikamet için.",
+      "gd": "Yâ Adl! Beni nefsimin zulmünden ve zâlimlerin gazabından koru; işlerimi adalet ve rıza terazisiyle tart."
+    },
+    {
+      "id": 31,
+      "ar": "اللَّطِيفُ",
+      "tr": "El-Latîf",
+      "m": "En ince sırlara nüfuz eden, lütufları sezilmez yollarla ulaştıran ince kerem sahibi.",
+      "eb": 129,
+      "v": "Her türlü zorluğun kolaylaşması, umulmadık rızık ve lütuflara nail olmak için.",
+      "gd": "Yâ Latîf! Hâlim Sana mâlumdur; işlerimi lütfunla kolaylaştır, beni görünmeyen tuzaklardan lütufla halâs eyle."
+    },
+    {
+      "id": 32,
+      "ar": "الْخَبِيرُ",
+      "tr": "El-Habîr",
+      "m": "Her şeyin iç yüzünden, gizlisinden ve en derin hakikatinden haberdar olan.",
+      "eb": 812,
+      "v": "Kötü ahlaktan arınmak, olayların perde arkasını sezmek ve uyanıklık için.",
+      "gd": "Yâ Habîr! Kalbimin en gizli temayüllerinden haberdarsın; içimi riyadan, ucubdan ve gafletten temizle."
+    },
+    {
+      "id": 33,
+      "ar": "الْحَلِيمُ",
+      "tr": "El-Halîm",
+      "m": "Cezalandırmakta acele etmeyen, hilm sahibi, öfkesine mağlup olmayan.",
+      "eb": 88,
+      "v": "Öfkeyi kontrol altına almak, vakar ve yumuşak huylu olmak için.",
+      "gd": "Yâ Halîm! Günahlarıma rağmen bana hilminle muamele ettin; kalbime hilm ve sükûnet ver, gazaptan beni muhafaza eyle."
+    },
+    {
+      "id": 34,
+      "ar": "الْعَظِيمُ",
+      "tr": "El-Azîm",
+      "m": "Büyüklüğü akılları aşan, hiçbir tasavvura sığmayan mutlak azamet sahibi.",
+      "eb": 1020,
+      "v": "Korkulardan emin olmak, hürmet görmek ve heybet sahibi olmak için.",
+      "gd": "Yâ Azîz ü Yâ Azîm! Azametin karşısında bütün mahlûkat boyun eğmiştir; beni azametinin nuruyla koru."
+    },
+    {
+      "id": 35,
+      "ar": "الْغَفُورُ",
+      "tr": "El-Gafûr",
+      "m": "Kullarının ayıplarını örten, günahlarını bağışlayıp mağfireti sonsuz olan.",
+      "eb": 1286,
+      "v": "Af ve mağfirete nail olmak, kalp huzuru ve günah korkusundan kurtuluş için.",
+      "gd": "Yâ Gafûr! Kapına günah yüküyle geldim; Gavs-ı Azam'ın tevessülüyle yalvarıyorum, beni mağfiretinle karşıla."
+    },
+    {
+      "id": 36,
+      "ar": "الشَّكُورُ",
+      "tr": "Eş-Şekûr",
+      "m": "Az amele çok mükâfat veren, şükreden kullarının nimetini artıran.",
+      "eb": 526,
+      "v": "Nimetlerin bereketlenmesi, şükür ehli olmak ve beden sıhhati için.",
+      "gd": "Yâ Şekûr! Sana lâyıkıyla şükretmekten âcizim; bana şükreden bir kalp, zikreden bir dil ve sabreden bir beden bahşeyle."
+    },
+    {
+      "id": 37,
+      "ar": "الْعَلِيُّ",
+      "tr": "El-Aliyy",
+      "m": "Yücelikte sonsuz, her şeyden üstün ve noksanlıklardan âlî olan.",
+      "eb": 110,
+      "v": "İtibarın artması, ilim ve ahlakta yücelmek için.",
+      "gd": "Yâ Aliyy! Şânın pek yücedir; beni zelil huylardan âlî makamlara eriştir, himmetimi âli kıl."
+    },
+    {
+      "id": 38,
+      "ar": "الْكَبِيرُ",
+      "tr": "El-Kebîr",
+      "m": "Varlığının büyüklüğü kavranamayan, her şeyden büyük olan.",
+      "eb": 232,
+      "v": "İtibar, manevi kuvvet ve insanların sevgisini kazanmak için.",
+      "gd": "Yâ Kebîr! Sen her şeyden büyüksün; kalbimde Senden başka hiçbir şeye büyüklük payesi verdirtme."
+    },
+    {
+      "id": 39,
+      "ar": "الْحَفِيظُ",
+      "tr": "El-Hafîz",
+      "m": "Kâinatı ve kullarını her türlü tehlike, kaza ve beladan koruyan.",
+      "eb": 998,
+      "v": "Kaza, bela, nazar ve tehlikelerden muhafaza olunmak için.",
+      "gd": "Yâ Hafîz! Canımı, imanımı, ailemi ve sevdiklerimi görünür görünmez her türlü âfetten hıfz u emânında sakla."
+    },
+    {
+      "id": 40,
+      "ar": "الْمُقِيتُ",
+      "tr": "El-Mukît",
+      "m": "Bütün mahlûkatın azığını yaratan, tayin eden ve bedenlerine ulaştıran.",
+      "eb": 550,
+      "v": "Muhtaç olmamak, rızık temini ve kuvvet bulmak için.",
+      "gd": "Yâ Mukît! Bedenimin ve ruhumun rızkını veren Sensin; beni açgözlülükten ve helal olmayan lokmadan koru."
+    },
+    {
+      "id": 41,
+      "ar": "الْحَسِيبُ",
+      "tr": "El-Hasîb",
+      "m": "Kullarının bütün amellerini tek tek hesaplayan ve herkese kâfi gelen.",
+      "eb": 80,
+      "v": "Düşman şerrinden korunmak, her hususta Allah'ın kifayetine ermek için.",
+      "gd": "Yâ Hasîb! Sen bana yetersin; 'Hasbünallâhu ve ni'mel vekîl', beni hiçbir hususta çaresiz bırakma."
+    },
+    {
+      "id": 42,
+      "ar": "الْجَلِيلُ",
+      "tr": "El-Celîl",
+      "m": "Celâl, azamet ve ululuk sıfatlarına sahip olan yüce Zât.",
+      "eb": 73,
+      "v": "Heybet, manevi tesir ve saygı görmek için.",
+      "gd": "Yâ Celîl! Kalbime celâlinin korkusunu ve cemâlinin muhabbetini yerleştir; beni rızana muhalefetten koru."
+    },
+    {
+      "id": 43,
+      "ar": "الْكَرِيمُ",
+      "tr": "El-Kerîm",
+      "m": "İhsanı, lütfu ve cömertliği bol, karşılık beklemeden veren kerem sahibi.",
+      "eb": 270,
+      "v": "Cömertlik, bereket, dünya ve âhiret izzeti için.",
+      "gd": "Yâ Kerîm! Kereminden ümitvarım; aczimi zenginliğine, fakrımı keremine arz ediyorum, beni mahrum bırakma."
+    },
+    {
+      "id": 44,
+      "ar": "الرَّقِيبُ",
+      "tr": "Er-Rakîb",
+      "m": "Bütün mahlûkatı her an kontrol eden, her hâlini gözeten.",
+      "eb": 312,
+      "v": "Kötü huylardan ve gafletten kurtulmak, emin olmak için.",
+      "gd": "Yâ Rakîb! Üzerimdeki gözetimini bir an olsun unutturma; kalbimi ihsan şuuruyla doldur."
+    },
+    {
+      "id": 45,
+      "ar": "الْمُجِيبُ",
+      "tr": "El-Mücîb",
+      "m": "Kendisine dua edenlerin duasını kabul eden, icabet buyuran.",
+      "eb": 55,
+      "v": "Duaların kabulü ve meşru hacetlerin süratle gerçekleşmesi için.",
+      "gd": "Yâ Mücîb! İşte ellerimi açtım, boynumu büktüm; Gavs-ı Geylani usulüyle yalvarıyorum, dualarımı hayırla icabet buyur."
+    },
+    {
+      "id": 46,
+      "ar": "الْوَاسِعُ",
+      "tr": "El-Vâsi'",
+      "m": "İlmi, rahmeti, kudreti ve lütfu her şeyi kuşatan geniş Zât.",
+      "eb": 137,
+      "v": "Rızık ve ömür bereketi, manevi darlıkların aşılması için.",
+      "gd": "Yâ Vâsi'! Rahmetin geniştir, lütfun boldur; daralan gönlümü genişlet, rızkımı vüs'atli eyle."
+    },
+    {
+      "id": 47,
+      "ar": "الْحَكِيمُ",
+      "tr": "El-Hakîm",
+      "m": "Bütün işleri hikmetli, her şeyi yerli yerince yaratan Zât.",
+      "eb": 78,
+      "v": "Hikmet sahibi olmak, doğru kararlar almak ve ilim için.",
+      "gd": "Yâ Hakîm! Başıma gelen her işte Senin bir hikmetin vardır; beni hikmetine teslim olan ve râzı gelen kullarından eyle."
+    },
+    {
+      "id": 48,
+      "ar": "الْوَدُودُ",
+      "tr": "El-Vedûd",
+      "m": "İyi kullarını çok seven, sevgiye ve sevilmeye yegâne lâyık olan.",
+      "eb": 20,
+      "v": "İnsanların muhabbetini kazanmak, aile huzuru ve sevgi bağı için.",
+      "gd": "Yâ Vedûd! Kalbime Habib-i Edîbinin muhabbetini ve Sana dost olanların sevgisini nakşeyle; beni sevdiğin bir kul eyle."
+    },
+    {
+      "id": 49,
+      "ar": "الْمَجِيدُ",
+      "tr": "El-Mecîd",
+      "m": "Şânı, şerefi ve keremi pek yüce, övgüye lâyık Zât.",
+      "eb": 57,
+      "v": "Şeref, itibar ve manevi derecelerin tecellisi için.",
+      "gd": "Yâ Mecîd! Şânın yücedir; beni nefis esaretinden kurtararak rızanın şerefiyle taltif eyle."
+    },
+    {
+      "id": 50,
+      "ar": "الْبَاعِثُ",
+      "tr": "El-Bâis",
+      "m": "Ölüleri kabirlerinden dirilten, kalpleri gaflet uykusundan uyandıran.",
+      "eb": 573,
+      "v": "Kalbin uyanması, tembellikten kurtulmak ve basiret için.",
+      "gd": "Yâ Bâis! Ölü kalpleri dirilten Sensin; şu gaflet uykusundaki kalbimi zikrinin ve muhabbetinin hayatıyla dirilt."
+    },
+    {
+      "id": 51,
+      "ar": "الشَّهِيدُ",
+      "tr": "Eş-Şehîd",
+      "m": "Her zamana ve mekâna şahit olan, hiçbir şey Kendisinden gizlenemeyen.",
+      "eb": 319,
+      "v": "Asi nefsi itaat altına almak ve istikamet için.",
+      "gd": "Yâ Şehîd! Her ametime şahitsin; beni huzurunda utanacak fiiller işlemekten muhafaza eyle."
+    },
+    {
+      "id": 52,
+      "ar": "الْحَقُّ",
+      "tr": "El-Hakk",
+      "m": "Varlığı hiç değişmeyen, gerçek, sabit ve hakikatin ta kendisi.",
+      "eb": 108,
+      "v": "Hakkı bulmak, bâtıldan korunmak ve sebat için.",
+      "gd": "Yâ Hakk! Hakkı hak bilip tâbi olmayı, bâtılı bâtıl bilip kaçınmayı bana nasip eyle; dilimi haktan ayırma."
+    },
+    {
+      "id": 53,
+      "ar": "الْوَكِيلُ",
+      "tr": "El-Vekîl",
+      "m": "Kendisine tevekkül edenlerin işlerini en mükemmel şekilde gören.",
+      "eb": 66,
+      "v": "Korku ve endişelerden kurtulmak, tevekkülün huzuruna ermek için.",
+      "gd": "Yâ Vekîl! Bütün işlerimi Sana ısmarladım; Sen ne güzel vekilsin, beni nefsimin eline bir an dahi bırakma."
+    },
+    {
+      "id": 54,
+      "ar": "الْقَوِيُّ",
+      "tr": "El-Kaviyy",
+      "m": "Pek güçlü, kudretinde hiçbir zaaf bulunmayan sonsuz kuvvet sahibi.",
+      "eb": 116,
+      "v": "Cismani ve ruhi zayıflıktan kurtulmak, metanet kazanmak için.",
+      "gd": "Yâ Kaviyy! Aczimi Sana arz ediyorum; dinimde, ibadetimde ve ahlakımda bana manevi bir kuvvet bahşeyle."
+    },
+    {
+      "id": 55,
+      "ar": "الْمَتِينُ",
+      "tr": "El-Metîn",
+      "m": "Kudreti sarsılmaz, hiçbir şey O'nu yoramayacak derecede metin olan.",
+      "eb": 500,
+      "v": "Zorluklara dayanma gücü ve sarsılmaz sebat için.",
+      "gd": "Yâ Metîn! İmanımı sarsılmaz kıl; şeytanın şüphe ve fitneleri karşısında adımlarımı sabit tut."
+    },
+    {
+      "id": 56,
+      "ar": "الْوَلِيُّ",
+      "tr": "El-Veliyy",
+      "m": "Mü'minlerin dostu, yardımcısı ve hamisi olan yüce Zât.",
+      "eb": 46,
+      "v": "Allah'ın veli kullarından olmak, dostluk ve muhabbet için.",
+      "gd": "Yâ Veliyy! Sen benim dünyada ve âhirette velimsin; beni sevdiğin dostlarının halkasına dahil eyle."
+    },
+    {
+      "id": 57,
+      "ar": "الْحَمِيدُ",
+      "tr": "El-Hamîd",
+      "m": "Her türlü övgüye, senâya ve teşekküre lâyık olan yegâne Zât.",
+      "eb": 62,
+      "v": "Ahlak güzelliği, dilin hayra alışması ve hamd makamına ermek için.",
+      "gd": "Yâ Hamîd! Hamd yalnız Sanadır; dilimi hamdinden, kalbimi şükründen gafil eyleme."
+    },
+    {
+      "id": 58,
+      "ar": "الْمُحْصِي",
+      "tr": "El-Muhsî",
+      "m": "Bütün mahlûkatın ve zerrelerin sayısını bir bir bilen.",
+      "eb": 148,
+      "v": "Hafıza kuvveti, zihin berraklığı ve hesap gününe hazırlık için.",
+      "gd": "Yâ Muhsî! Zerreden kürreye her şeyi sayan Sensin; hesap günü geldiğinde bana hesabımı kolay eyle."
+    },
+    {
+      "id": 59,
+      "ar": "الْمُبْدِئُ",
+      "tr": "El-Mübdi'",
+      "m": "Bütün varlıkları maddesiz ve modelsiz olarak ilk defa yaratan.",
+      "eb": 56,
+      "v": "Başlanan işlerin muvaffakiyetle neticelenmesi için.",
+      "gd": "Yâ Mübdi'! Başladığım her hayırlı işte bana inayetini yoldaş eyle; ömrümü hayırla başlatıp hayırla nihayete erdir."
+    },
+    {
+      "id": 60,
+      "ar": "الْمُعِيدُ",
+      "tr": "El-Muîd",
+      "m": "Yaratılmışları yok ettikten sonra tekrar dirilten ve eski hâline getiren.",
+      "eb": 124,
+      "v": "Kaybedilen şeylerin bulunması, manevi hallerin iadesi için.",
+      "gd": "Yâ Muîd! Kaybettiğim manevi huzuru ve ihlası kalbime iade buyur; beni tefrikadan vahdete döndür."
+    },
+    {
+      "id": 61,
+      "ar": "الْمُحْيِي",
+      "tr": "El-Muhyî",
+      "m": "Can bağışlayan, hayat veren, kalpleri imanla dirilten.",
+      "eb": 68,
+      "v": "Maddi ve ruhi hastalıklardan şifa bulmak, dirilik için.",
+      "gd": "Yâ Muhyî! Ruhumu marifetullah ile, kalbimi muhabbetullah ile dirilt; beni dâimî bir hayat ile hayattar kıl."
+    },
+    {
+      "id": 62,
+      "ar": "الْمُمِيتُ",
+      "tr": "El-Mümît",
+      "m": "Eceli gelenlerin hayatına son veren, ölümü yaratan.",
+      "eb": 490,
+      "v": "Kötü nefsi terbiye etmek ve günah arzusunu öldürmek için.",
+      "gd": "Yâ Mümît! İçimdeki günah ve isyan arzularını öldür; beni son nefesimde hüsn-i hâtime ile vefat ettir."
+    },
+    {
+      "id": 63,
+      "ar": "الْحَيُّ",
+      "tr": "El-Hayy",
+      "m": "Ezeli ve ebedi hayat sahibi, her dâim diri olan Zât.",
+      "eb": 18,
+      "v": "Uzun ve bereketli ömür, kalp diriliği ve şifa için.",
+      "gd": "Yâ Hayy! Sen ölmeyen dirisin; 'Yâ Hayyu Yâ Kayyûm bi-rahmetike esteğîs', rahmetinle bana imdat eyle."
+    },
+    {
+      "id": 64,
+      "ar": "الْقَيُّومُ",
+      "tr": "El-Kayyûm",
+      "m": "Bütün varlıkları ayakta tutan, gökleri ve yeri nizamında devam ettiren.",
+      "eb": 156,
+      "v": "İşlerin intizamı, tembellikten kurtulmak ve sebat için.",
+      "gd": "Yâ Kayyûm! Varlığımı Senin kudret elin ayakta tutar; beni gaflet uykusundan uyandır, işlerimi muntazam eyle."
+    },
+    {
+      "id": 65,
+      "ar": "الْوَاجِدُ",
+      "tr": "El-Vâcid",
+      "m": "İstediğini istediği anda bulan, hiçbir şeye muhtaç olmayan.",
+      "eb": 14,
+      "v": "Kayıpları bulmak, kalp zenginliği ve kanaat için.",
+      "gd": "Yâ Vâcid! Senin katında hiçbir şey kaybolmaz; beni rızanı bulan ve bulanların safında olanlardan eyle."
+    },
+    {
+      "id": 66,
+      "ar": "الْمَاجِدُ",
+      "tr": "El-Mâcid",
+      "m": "Kadr ü şânı pek büyük, cömertliği ve keremi sınırsız olan.",
+      "eb": 48,
+      "v": "Gönül aydınlığı, şan ve manevi asalet için.",
+      "gd": "Yâ Mâcid! Keremin sonsuzdur; beni takva asaletiyle şereflendir, kalbime yüce duygular lütfeyle."
+    },
+    {
+      "id": 67,
+      "ar": "الْوَاحِدُ",
+      "tr": "El-Vâhid",
+      "m": "Zâtında, sıfatlarında ve fiillerinde tek olan, ortağı bulunmayan.",
+      "eb": 19,
+      "v": "Kalpte tevhid inancını pekiştirmek ve vehimlerden kurtulmak için.",
+      "gd": "Yâ Vâhid! Seni bir bilir, Sana sığınırım; kalbimi şirkten, riyadan ve masivadan koru."
+    },
+    {
+      "id": 68,
+      "ar": "الصَّمَدُ",
+      "tr": "Es-Samed",
+      "m": "Herkesin Kendisine muhtaç olduğu, Kendisi hiçbir şeye muhtaç olmayan.",
+      "eb": 134,
+      "v": "Kimseye muhtaç olmamak, rızık ve kanaat bereketi için.",
+      "gd": "Yâ Samed! Bütün mahlûkat Kapına muhtaçtır; beni Senden başkasına muhtaç etme, hacetlerimi Sen gider."
+    },
+    {
+      "id": 69,
+      "ar": "الْقَادِرُ",
+      "tr": "El-Kâdir",
+      "m": "İstediğini dilediği gibi yapmaya gücü yeten mutlak kudret sahibi.",
+      "eb": 305,
+      "v": "Müşküllerin halli, güç ve iktidar bulmak için.",
+      "gd": "Yâ Kâdir! Sen her şeye kadirsin; benim imkânsız gördüğüm hayırlı muratlarımı kudretinle ihsan eyle."
+    },
+    {
+      "id": 70,
+      "ar": "الْمُقْتَدِرُ",
+      "tr": "El-Muktedir",
+      "m": "Kudret sahipleri üzerinde dilediği gibi tasarruf eden.",
+      "eb": 744,
+      "v": "Zorlukların üstesinden gelmek ve başarıya ulaşmak için.",
+      "gd": "Yâ Muktedir! Kudretin karşısında bütün sebepler âcizdir; beni sebeplerin esiri olmaktan kurtar."
+    },
+    {
+      "id": 71,
+      "ar": "الْمُقَدِّمُ",
+      "tr": "El-Mukaddim",
+      "m": "Dilediğini öne geçiren, derecesini yükselten.",
+      "eb": 184,
+      "v": "Hayırlarda öne geçmek, sınav ve yarışmalarda muvaffakiyet için.",
+      "gd": "Yâ Mukaddim! Beni rızana ulaştıracak hayır amellerinde öne geçir; takvada beni öncülerden eyle."
+    },
+    {
+      "id": 72,
+      "ar": "الْمُؤَخِّرُ",
+      "tr": "El-Muahhir",
+      "m": "Dilediğini geriye bırakan, ertelenmesi gerekeni erteleyen.",
+      "eb": 846,
+      "v": "Şerlerden ve kötü insanlardan uzaklaşmak için.",
+      "gd": "Yâ Muahhir! Bana zarar verecek her türlü şerri benden tehir eyle ve uzaklaştır."
+    },
+    {
+      "id": 73,
+      "ar": "الْأَوَّلُ",
+      "tr": "El-Evvel",
+      "m": "Varlığının başlangıcı olmayan, her şeyden önce var olan.",
+      "eb": 37,
+      "v": "İşlerin hayırla başlaması ve ömrün hayırlı olması için.",
+      "gd": "Yâ Evvel! Başlangıcım Senin kudretinledir; her işimin evvelini ve âhirini hayreyle."
+    },
+    {
+      "id": 74,
+      "ar": "الْآخِرُ",
+      "tr": "El-Âhir",
+      "m": "Varlığının sonu olmayan, her şey yok olduktan sonra baki kalan.",
+      "eb": 801,
+      "v": "Son nefeste imanla gitmek, ömrü hayırla tamamlamak için.",
+      "gd": "Yâ Âhir! Sonum Sana varacaktır; beni dünyadan iman ve selâmet ile huzuruna al."
+    },
+    {
+      "id": 75,
+      "ar": "الظَّاهِرُ",
+      "tr": "Ez-Zâhir",
+      "m": "Varlığı bütün kâinatta apaçık delillerle görünen.",
+      "eb": 1106,
+      "v": "Kalp gözünün açılması, hakikatleri idrak etmek için.",
+      "gd": "Yâ Zâhir! Kâinattaki bütün nizam Varlığının şahididir; basiretimi aç, her şeyde Senin cemâlini müşahede edeyim."
+    },
+    {
+      "id": 76,
+      "ar": "الْبَاطِنُ",
+      "tr": "El-Bâtın",
+      "m": "Zâtı akılların idrakinden gizli olan, sırların sahibi.",
+      "eb": 62,
+      "v": "İç huzuru, sırların inkişafı ve nefsin tezkiyesi için.",
+      "gd": "Yâ Bâtın! Bâtınımı zikrinin nuruyla imar eyle; beni içten içe Sana bağla."
+    },
+    {
+      "id": 77,
+      "ar": "الْوَالِي",
+      "tr": "El-Vâlî",
+      "m": "Kâinatı ve bütün hâdiseleri idare eden mutlak yönetici.",
+      "eb": 47,
+      "v": "İşlerde düzen, ehil yönetici olmak ve afetlerden korunmak için.",
+      "gd": "Yâ Vâlî! Bütün mülkün mutlak idarecisi Sensin; hayatımın seyrini rızana uygun olarak idare buyur."
+    },
+    {
+      "id": 78,
+      "ar": "الْمُتَعَالِي",
+      "tr": "El-Müteâlî",
+      "m": "Her türlü noksanlıktan sonsuz derecede yüce ve münezzeh olan.",
+      "eb": 541,
+      "v": "Makam, mevki ve manevi rütbenin yükselmesi için.",
+      "gd": "Yâ Müteâlî! Yüceliğin karşısında secdeye kapanıyorum; beni zelil heveslerin elinden çekip al."
+    },
+    {
+      "id": 79,
+      "ar": "الْبَرُّ",
+      "tr": "El-Berr",
+      "m": "Kullarına iyiliği, lütfu ve ihsanı bol olan şefkatli Zât.",
+      "eb": 202,
+      "v": "İyilik kapılarının açılması, ana-baba rızası kazanmak için.",
+      "gd": "Yâ Berr! İhsanın boldur; beni hayır ve iyilikte yarışan, kullarına faydalı olan bir kul eyle."
+    },
+    {
+      "id": 80,
+      "ar": "التَّوَّابُ",
+      "tr": "Et-Tevvâb",
+      "m": "Tövbeleri tekrar tekrar kabul eden, günahları bağışlayan.",
+      "eb": 409,
+      "v": "Tövbelerin kabulü ve günahtan nefret duygusu için.",
+      "gd": "Yâ Tevvâb! İşte bin kere tövbemi bozmuş olsam da yine Kapındayım; tövbemi nasûh bir tövbe kıl."
+    },
+    {
+      "id": 81,
+      "ar": "الْمُنْتَقِمُ",
+      "tr": "El-Müntakım",
+      "m": "Zâlimlerden ve haddi aşanlardan mazlumların intikamını alan.",
+      "eb": 630,
+      "v": "Zulme uğramaktan korunmak ve haksızlığa karşı galibiyet için.",
+      "gd": "Yâ Müntakım! Mazlumların âhını yerde bırakma; zâlimlerin şerrinden inananları muhafaza eyle."
+    },
+    {
+      "id": 82,
+      "ar": "الْعَفُوُّ",
+      "tr": "El-Afüvv",
+      "m": "Affı çok olan, günahları tamamen silip yok eden.",
+      "eb": 156,
+      "v": "Günahların bağışlanması, af ve afiyet bulmak için.",
+      "gd": "Yâ Afüvv! 'Allahümme inneke afüvvün tuhibbü'l-afve fa'fü annî', beni ve sevdiklerimi affeyle."
+    },
+    {
+      "id": 83,
+      "ar": "الرَّؤُوفُ",
+      "tr": "Er-Raûf",
+      "m": "Pek şefkatli, merhametinde sonsuz derece ince ve müşfik olan.",
+      "eb": 287,
+      "v": "Kalp yumuşaklığı, merhamet görmek ve huzur için.",
+      "gd": "Yâ Raûf! Şefkatinle şu bîçare kuluna nazar eyle; kalbime sekinet, ruhuma afiyet ver."
+    },
+    {
+      "id": 84,
+      "ar": "مَالِكُ الْمُلْكِ",
+      "tr": "Mâlikü'l-Mülk",
+      "m": "Bütün mülkün ebedî ve hakiki yegâne sahibi.",
+      "eb": 212,
+      "v": "Mülk ve maişette bereket, kimseye boyun eğmemek için.",
+      "gd": "Yâ Mâlikü'l-Mülk! Mülk Senindir, dilediğine verirsin; bana rızanı ve kanaat servetini ihsan eyle."
+    },
+    {
+      "id": 85,
+      "ar": "ذُو الْجَلَالِ وَالْإِكْرَامِ",
+      "tr": "Zü'l-Celâli ve'l-İkrâm",
+      "m": "Hem azamet ve büyüklük, hem de sonsuz lütuf ve ikram sahibi.",
+      "eb": 1100,
+      "v": "Duaların kabulü ve her iki cihanda ikrama mazhar olmak için.",
+      "gd": "Yâ Ze'l-Celâli ve'l-İkrâm! Celâline sığınır, ikramını dilerim; beni cemâlinle ve rıdvanınla mükâfatlandır."
+    },
+    {
+      "id": 86,
+      "ar": "الْمُقْسِطُ",
+      "tr": "El-Muksit",
+      "m": "Her işini adalet ve dengeyle yapan, mazlumun hakkını alan.",
+      "eb": 209,
+      "v": "Vesveseden kurtulmak, adaletli ve dengeli yaşamak için.",
+      "gd": "Yâ Muksit! Kalbimi vesvese ve taşkınlıklardan koru; amelimi adalet ve ihlas üzere dâim eyle."
+    },
+    {
+      "id": 87,
+      "ar": "الْجَامِعُ",
+      "tr": "El-Câmi'",
+      "m": "Bütün kemâl sıfatları kendisinde toplayan, mahlûkatı mahşerde bir araya getiren.",
+      "eb": 114,
+      "v": "Dargınların barışması, kaybolanların kavuşması ve birlik için.",
+      "gd": "Yâ Câmi'! Dağılmış hâlimi toparla; kalbimi muhabbetinde, milletimizi vahdette cem eyle."
+    },
+    {
+      "id": 88,
+      "ar": "الْغَنِيُّ",
+      "tr": "El-Ganiyy",
+      "m": "Hiçbir şeye muhtaç olmayan, mutlak zenginlik sahibi.",
+      "eb": 1060,
+      "v": "Maddi ve manevi zenginlik, borçlardan kurtuluş için.",
+      "gd": "Yâ Ganiyy! Ben fakirim, Sen zenginsin; beni manevi zenginlik olan kanaatle doyur."
+    },
+    {
+      "id": 89,
+      "ar": "الْمُغْنِي",
+      "tr": "El-Mugnî",
+      "m": "Dilediğini zengin kılan, ihtiyaçlarını cömertçe gideren.",
+      "eb": 1100,
+      "v": "Fakirlikten kurtulmak ve bol maişete ermek için.",
+      "gd": "Yâ Mugnî! Beni Senden başkasına muhtaç etmeyecek bir zenginlikle taltif eyle."
+    },
+    {
+      "id": 90,
+      "ar": "الْمَانِعُ",
+      "tr": "El-Mâni'",
+      "m": "Dilemediği şeylerin meydana gelmesine engel olan, koruyan.",
+      "eb": 161,
+      "v": "Kötülüklerden, kazalardan ve fitnelerden korunmak için.",
+      "gd": "Yâ Mâni'! Bana ve sevdiklerime dokunacak her türlü musibet ve şerre mâni ol."
+    },
+    {
+      "id": 91,
+      "ar": "الضَّارُّ",
+      "tr": "Ed-Dârr",
+      "m": "Zarar verici şeyleri de yaratan, imtihan eden.",
+      "eb": 1001,
+      "v": "Zararlardan ve şerlerden Allah'a sığınmak için.",
+      "gd": "Yâ Dârr! Zarar da fayda da Senin elindedir; bana dokunacak her zararı def eyle."
+    },
+    {
+      "id": 92,
+      "ar": "النَّافِعُ",
+      "tr": "En-Nâfi'",
+      "m": "Faydalı şeyleri yaratan, kullarına menfaat bahşeden.",
+      "eb": 201,
+      "v": "Hayırlı kazanç, sıhhat ve faydalı ilim için.",
+      "gd": "Yâ Nâfi'! Bana fayda verecek ilim, amel ve rızık nasip eyle; zararlı olan her şeyden uzak tut."
+    },
+    {
+      "id": 93,
+      "ar": "النُّورُ",
+      "tr": "En-Nûr",
+      "m": "Âlemleri nurlandıran, kalplere hidayet ışığı saçan.",
+      "eb": 256,
+      "v": "Kalp gözünün açılması, zihin nurlanması ve feyiz için.",
+      "gd": "Yâ Nûr! Kalbimi, kabrimi, gözümü ve yolumu nurlandır; beni zulümattan nura çıkar."
+    },
+    {
+      "id": 94,
+      "ar": "الْهَادِي",
+      "tr": "El-Hâdî",
+      "m": "Hidayet veren, kullarını doğru yola ileten.",
+      "eb": 20,
+      "v": "Hidayet üzere kalmak, dalaletten korunmak ve doğru yol için.",
+      "gd": "Yâ Hâdî! Ayaklarımı sırat-ı müstakim üzere sabit kıl; nefsimin beni saptırmasına fırsat verme."
+    },
+    {
+      "id": 95,
+      "ar": "الْبَدِيعُ",
+      "tr": "El-Bedî'",
+      "m": "Örneksiz ve benzersiz güzellikte harikalar yaratan.",
+      "eb": 86,
+      "v": "Sanat, hikmet ve işlerde muvaffakiyet için.",
+      "gd": "Yâ Bedî'! Hayatıma hayır ve güzellikler nakşeyle; beni rızana ulaştıracak güzel ameller ihsan buyur."
+    },
+    {
+      "id": 96,
+      "ar": "الْبَاقِي",
+      "tr": "El-Bâkî",
+      "m": "Varlığının sonu olmayan, ebediyen baki kalacak Zât.",
+      "eb": 113,
+      "v": "Uzun ve hayırlı ömür, kalıcı ameller ve hüzünden kurtulmak için.",
+      "gd": "Yâ Bâkî! Sen Bâkisin, fani olan her şey geçicidir; kalbimi baki olan muhabbetinle doldur."
+    },
+    {
+      "id": 97,
+      "ar": "الْوَارِثُ",
+      "tr": "El-Vâris",
+      "m": "Bütün mülkün ve kâinatın hakiki son vârisi.",
+      "eb": 707,
+      "v": "Hayırlı evlat, mülk bereketi ve uzun ömür için.",
+      "gd": "Yâ Vâris! Mülk neticede Sana kalacaktır; beni hayırlı bir mirasçı ve rızana vâris olanlardan kıl."
+    },
+    {
+      "id": 98,
+      "ar": "الرَّشِيدُ",
+      "tr": "Er-Reşîd",
+      "m": "Bütün işleri dosdoğru ve hedefine ulaştıran, doğru yolu gösteren.",
+      "eb": 514,
+      "v": "Doğru kararlar almak, kötü alışkanlıklardan kurtulmak için.",
+      "gd": "Yâ Reşîd! Beni ve kararlarımı rüşd üzere kıl; her hususta en doğru ve hayırlı olanı bana ilham eyle."
+    },
+    {
+      "id": 99,
+      "ar": "الصَّبُورُ",
+      "tr": "Es-Sabûr",
+      "m": "Çok sabırlı, asileri cezalandırmakta acele etmeyen sonsuz sabır sahibi.",
+      "eb": 298,
+      "v": "Sabır, metanet, tahammül ve ferahlığa ermek için.",
+      "gd": "Yâ Sabûr! İmtihanlar karşısında kalbime sabır ve metanet lütfeyle; 'İnnallâhe mea's-sâbirîn' sırrına beni mazhar eyle."
+    }
+  ],
+  "dualarList": [
+    {
+      "id": 1,
+      "title": "Âyetü'l-Kürsî (En Büyük Koruma Âyeti)",
+      "category": "korunma",
+      "categoryLabel": "🛡️ Korunma & Nazar",
+      "count": 1,
+      "source": "Kur'ân-ı Kerîm | Bakara Sûresi: 255 (Buhârî)",
+      "virtue": "Efendimiz (s.a.v.) buyurdu: 'Evinde Âyetü'l-Kürsî okuyana şeytan yaklaşamaz; sabah okuyan akşama, akşam okuyan sabaha kadar ilahî muhafaza altına alınır.'",
+      "ar": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۚ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۚ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۚ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+      "tr_okunus": "Allâhu lâ ilâhe illâ hüve'l-hayyü'l-kayyûm. Lâ te'huzühû sinetün ve lâ nevm. Lehû mâ fi's-semâvâti ve mâ fi'l-ard. Men zellezî yeşfeu indehû illâ bi-iznih. Ya'lemü mâ beyne eydîhim ve mâ halfehüm. Ve lâ yuhîtûne bi-şey'in min ilmihî illâ bi-mâ şâ'. Vesia kürsiyyühü's-semâvâti ve'l-ard. Ve lâ yeûdühû hıfzuhümâ ve hüve'l-aliyyü'l-azîm.",
+      "tr_anlam": "Allah; O'ndan başka ilah yoktur. Hayy'dır (daima diridir), Kayyûm'dur (bütün varlığı ayakta tutandır). O'nu ne bir uyuklama ne de bir uyku tutar. Göklerde ve yerde ne varsa hepsi O'nundur. O'nun izni olmadan katında kim şefaat edebilir? O, kullarının önlerindekini de arkalarındakini de (yaptıklarını ve yapacaklarını) bilir. O'nun dilediği kadarından başka, O'nun ilminden hiçbir şeyi kavrayamazlar. O'nun kürsüsü gökleri ve yeri kaplamıştır. Onları koruyup gözetmek O'na asla ağır gelmez. O, çok yücedir, çok büyüktür."
+    },
+    {
+      "id": 2,
+      "title": "Felak Sûresi (Büyü, Hased ve Şerden Korunma)",
+      "category": "korunma",
+      "categoryLabel": "🛡️ Korunma & Nazar",
+      "count": 3,
+      "source": "Kur'ân-ı Kerîm | Felak Sûresi (Buhârî, Müslim)",
+      "virtue": "Peygamber Efendimiz (s.a.v.) her gece yatarken ve sabah-akşam Felak ve Nâs surelerini okuyup avucuna üfler ve bütün vücuduna sürerdi.",
+      "ar": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ﴿١﴾ مِنْ شَرِّ مَا خَلَقَ ﴿٢﴾ وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ ﴿٣﴾ وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ﴿٤﴾ وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴿٥﴾",
+      "tr_okunus": "Bismillâhirrahmânirrahîm. Kul eûzü bi-rabbi'l-felak. Min şerri mâ halak. Ve min şerri gâsikın izâ vekab. Ve min şerri'n-neffâsâti fi'l-ukad. Ve min şerri hâsidin izâ hased.",
+      "tr_anlam": "De ki: Yarattığı şeylerin şerrinden, karanlığı çöktüğü zaman gecenin şerrinden, düğümlere üfüren büyücülerin şerrinden ve haset ettiği zaman hasetçinin şerrinden sabahın Rabbine sığınırım."
+    },
+    {
+      "id": 3,
+      "title": "Nâs Sûresi (Vesvese ve Kötü Varlıklardan Korunma)",
+      "category": "korunma",
+      "categoryLabel": "🛡️ Korunma & Nazar",
+      "count": 3,
+      "source": "Kur'ân-ı Kerîm | Nâs Sûresi (Buhârî, Müslim)",
+      "virtue": "İnsanların kalbine sinsi vesvese veren şeytanların, cinlerin ve kötü niyetli kimselerin şerrine karşı en büyük manevî kalkandır.",
+      "ar": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nقُلْ أَعُوذُ بِرَبِّ النَّاسِ ﴿١﴾ مَلِكِ النَّاسِ ﴿٢﴾ إِلَٰهِ النَّاسِ ﴿٣﴾ مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ﴿٤﴾ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ﴿٥﴾ مِنَ الْجِنَّةِ وَالنَّاسِ ﴿٦﴾",
+      "tr_okunus": "Bismillâhirrahmânirrahîm. Kul eûzü bi-rabbi'n-nâs. Meliki'n-nâs. İlâhi'n-nâs. Min şerri'l-vesvâsi'l-hânnâs. Ellezî yüvesvisü fî sudûri'n-nâs. Mine'l-cinneti ve'n-nâs.",
+      "tr_anlam": "De ki: İnsanların kalplerine vesvese sokan o sinsi şeytanın şerrinden; insanların Rabbine, insanların Hükümranına ve insanların İlahına sığınırım. O şeytan ki gerek cinlerden gerek insanlardan olur."
+    },
+    {
+      "id": 4,
+      "title": "Nazar Âyetleri (Göz Değmesine Karşı Kalkan)",
+      "category": "korunma",
+      "categoryLabel": "🛡️ Korunma & Nazar",
+      "count": 3,
+      "source": "Kur'ân-ı Kerîm | Kalem Sûresi: 51-52",
+      "virtue": "Nazar haktır. Bu ayet-i kerimeler hasetçilerin, kem gözlerin ve kötü bakışların tesirini Allah'ın izniyle tamamen bozar.",
+      "ar": "وَإِنْ يَكَادُ الَّذِينَ كَفَرُوا لَيُزْلِقُونَكَ بِأَبْصَارِهِمْ لَمَّا سَمِعُوا الذِّكْرَ وَيَقُولُونَ إِنَّهُ لَمَجْنُونٌ ﴿٥١﴾ وَمَا هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ ﴿٥٢﴾",
+      "tr_okunus": "Ve in yekâdüllezîne keferû le-yüzlikûneke bi-ebsârihim lemmâ semi'u'z-zikra ve yekûlûne innehû le-mecnûn. Ve mâ hüve illâ zikrun li'l-âlemîn.",
+      "tr_anlam": "O inkâr edenler Zikr'i (Kur'an'ı) işittikleri zaman, neredeyse seni gözleriyle yıkıp devireceklerdi! Ve 'O kesinlikle bir delidir' diyorlardı. Hâlbuki o Kur'an, bütün âlemler için ancak bir öğüttür."
+    },
+    {
+      "id": 5,
+      "title": "Peygamberimiz'in Nazar ve Afet Duası",
+      "category": "korunma",
+      "categoryLabel": "🛡️ Korunma & Nazar",
+      "count": 3,
+      "source": "Sahîh-i Buhârî (3371)",
+      "virtue": "Resûlullah (s.a.v.) torunları Hz. Hasan ve Hz. Hüseyin'e nazar ve afet değmesin diye bu duayı okuyup onlara nefes ederdi.",
+      "ar": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+      "tr_okunus": "Eûzü bi-kelimâtillâhi't-tâmmeti min külli şeytânin ve hâmmeh, ve min külli aynin lâmmeh.",
+      "tr_anlam": "Bütün şeytanlardan, zehirli ve zararlı haşerelerden, kem ve değici her türlü gözden (nazardan) Allah'ın eksiksiz ve şifalı kelimelerine sığınırım."
+    },
+    {
+      "id": 6,
+      "title": "Sabah-Akşam 3 Kez Okunan Zırh Dua",
+      "category": "korunma",
+      "categoryLabel": "🛡️ Korunma & Nazar",
+      "count": 3,
+      "source": "Tirmizî (3388), Ebû Dâvûd (5088) - Sahih",
+      "virtue": "Efendimiz (s.a.v.) buyurdu: 'Kim sabah veya akşam 3 defa bu duayı okursa, gökten ve yerden gelecek hiçbir bela ona zarar veremez.'",
+      "ar": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "tr_okunus": "Bismillâhillezî lâ yedurru measmihî şey'ün fi'l-ardı ve lâ fi's-semâ'i ve hüve's-semîu'l-alîm.",
+      "tr_anlam": "İsmi anıldığında yerde ve gökte hiçbir şeyin zarar veremeyeceği Allah'ın adıyla! O, her şeyi hakkıyla işitendir, her şeyi hakkıyla bilendir."
+    },
+    {
+      "id": 7,
+      "title": "Her Türlü Yaratılmışın Şerrinden Korunma",
+      "category": "korunma",
+      "categoryLabel": "🛡️ Korunma & Nazar",
+      "count": 3,
+      "source": "Sahîh-i Müslim (2708)",
+      "virtue": "Bir yere konaklayan veya evinden çıkan kimse bu duayı okursa, oradan ayrılıncaya kadar hiçbir mahlukat ona zarar veremez.",
+      "ar": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+      "tr_okunus": "Eûzü bi-kelimâtillâhi't-tâmmâti min şerri mâ halak.",
+      "tr_anlam": "Yarattığı şeylerin bütün şerrinden Allah'ın tastamam kelimelerine sığınırım."
+    },
+    {
+      "id": 8,
+      "title": "Düşman, Haksızlık ve Zalim Korkusunda Dua",
+      "category": "korunma",
+      "categoryLabel": "🛡️ Korunma & Nazar",
+      "count": 3,
+      "source": "Ebû Dâvûd (1537) - Sahih senet",
+      "virtue": "Efendimiz (s.a.v.) bir topluluktan, hasımdan veya yetkili bir zalimden çekindiğinde bu dua ile Allah'a iltica ederdi.",
+      "ar": "اللَّهُمَّ إِنَّا نَجْعَلُكَ فِي نُحُورِهِمْ وَنَعُوذُ بِكَ مِنْ شُرُورِهِمْ",
+      "tr_okunus": "Allâhümme innâ nec'alüke fî nuhûrihim ve neûzü bike min şurûrihim.",
+      "tr_anlam": "Allah'ım! Onların göğüslerine (kötü niyetlerine ve hilelerine) karşı Seni siper ediyor ve onların bütün şerlerinden yalnız Sana sığınıyoruz."
+    },
+    {
+      "id": 9,
+      "title": "Akıbeti Hayreyleme ve Bela Def Duası",
+      "category": "korunma",
+      "categoryLabel": "🛡️ Korunma & Nazar",
+      "count": 1,
+      "source": "Ahmed b. Hanbel, Müsned (4/181)",
+      "virtue": "Dünya rüsvaylığından, ansızın gelen felaketlerden ve kabir azabından korunmak için okunur.",
+      "ar": "اللَّهُمَّ أَحْسِنْ عَاقِبَتَنَا فِي الْأُمُورِ كُلِّهَا وَأَجِرْنَا مِنْ خِزْيِ الدُّنْيَا وَعَذَابِ الْآخِرَةِ",
+      "tr_okunus": "Allâhümme ahsin âkıbetenâ fi'l-umûri küllihâ ve ecirnâ min hızyi'd-dünyâ ve azâbi'l-âhireh.",
+      "tr_anlam": "Allah'ım! Bütün işlerimizde sonumuzu (akıbetimizi) güzel eyle ve bizi dünyada rezil olmaktan da ahiret azabından da muhafaza buyur."
+    },
+    {
+      "id": 10,
+      "title": "Vesvese ve Şeytan Dürtülerinden Sığınma",
+      "category": "korunma",
+      "categoryLabel": "🛡️ Korunma & Nazar",
+      "count": 3,
+      "source": "Kur'ân-ı Kerîm | Mü'minûn Sûresi: 97-98",
+      "virtue": "İbadette, namazda veya günlük hayatta akla gelen vesvese, şüphe ve korkuları anında defeder.",
+      "ar": "رَبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ ﴿٩٧﴾ وَأَعُوذُ بِكَ رَبِّ أَنْ يَحْضُرُونِ ﴿٩٨﴾",
+      "tr_okunus": "Rabbi eûzü bike min hemezâti'ş-şeyâtîn. Ve eûzü bike rabbi en yahdurûn.",
+      "tr_anlam": "Rabbim! Şeytanların kışkırtmalarından ve vesveselerinden Sana sığınırım. Rabbim! Onların yanımda bulunmalarından da Sana sığınırım."
+    },
+    {
+      "id": 11,
+      "title": "Hz. Ali'ye Öğretilen Borç ve Rızık Duası",
+      "category": "bereket",
+      "categoryLabel": "🌾 Bereket & Rızık",
+      "count": 3,
+      "source": "Sünen-i Tirmizî (3563) - Hasen Hadis",
+      "virtue": "Hz. Ali (r.a.) buyurdu: 'Üzerinde Sebir dağı kadar borç olsa dahi, bu duayı okursan Allah Teâlâ o borcu ödemeyi sana nasip eder.'",
+      "ar": "اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+      "tr_okunus": "Allâhümmekfinî bi-halâlike an harâmik, ve eğninî bi-fadlike ammen sivâk.",
+      "tr_anlam": "Allah'ım! Helal rızkınla beni haramlardan koruyup kifayet eyle; lütuf ve kereminle beni Senden başkasına muhtaç eyleme!"
+    },
+    {
+      "id": 12,
+      "title": "Hz. İsa'nın Bereket Duası (Gök Sofrası)",
+      "category": "bereket",
+      "categoryLabel": "🌾 Bereket & Rızık",
+      "count": 1,
+      "source": "Kur'ân-ı Kerîm | Mâide Sûresi: 114",
+      "virtue": "Haneye, sofraya, kazanca tükenmez bereket yağdıran ve darlıktan çıkaran mübarek ayettir.",
+      "ar": "اللَّهُمَّ رَبَّنَا أَنْزِلْ عَلَيْنَا مَائِدَةً مِنَ السَّمَاءِ تَكُونُ لَنَا عِيدًا لِأَوَّلِنَا وَآخِرِنَا وَآيَةً مِنْكَ ۖ وَارْزُقْنَا وَأَنْتَ خَيْرُ الرَّازِقِينَ",
+      "tr_okunus": "Allâhümme rabbenâ enzil aleynâ mâideten mine's-semâ'i tekûnü lenâ îden li-evvelinâ ve âhirinâ ve âyeten minke verzuknâ ve ente hayru'r-râzikîn.",
+      "tr_anlam": "Ey Rabbimiz olan Allah'ım! Bizim üzerimize gökten bir sofra indir ki, bizim hem öncekilerimiz hem sonrakilerimiz için bir bayram ve Senden bir mucize olsun. Bizi rızıklandır; zira Sen rızık verenlerin en hayırlısısın."
+    },
+    {
+      "id": 13,
+      "title": "Faydalı İlim ve Temiz Rızık Talebi",
+      "category": "bereket",
+      "categoryLabel": "🌾 Bereket & Rızık",
+      "count": 1,
+      "source": "Sünen-i İbni Mâce (925) - Sahih",
+      "virtue": "Resûl-i Ekrem Efendimiz (s.a.v.) her sabah namazının selamından sonra bu duayı hiç terk etmezdi.",
+      "ar": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا وَرِزْقًا طَيِّبًا وَعَمَلًا مُتَقَبَّلًا",
+      "tr_okunus": "Allâhümme innî es'elüke ilmen nâfian ve rızkan tayyiben ve amelen mütekabbelâ.",
+      "tr_anlam": "Allah'ım! Senden fayda veren ilim, temiz ve helal rızık ve katında kabul olunan amel dilerim."
+    },
+    {
+      "id": 14,
+      "title": "Mülk, İkram ve Sonsuz Rızık Âyeti",
+      "category": "bereket",
+      "categoryLabel": "🌾 Bereket & Rızık",
+      "count": 1,
+      "source": "Kur'ân-ı Kerîm | Âl-i İmrân Sûresi: 26-27",
+      "virtue": "Maddi manevi sıkıntıya düşen kimse bu ayetleri okuduğunda Allah ummadığı kapılardan rızık ihsan eder.",
+      "ar": "قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَنْ تَشَاءُ وَتَنْزِعُ الْمُلْكَ مِمَّنْ تَشَاءُ وَتُعِزُّ مَنْ تَشَاءُ وَتُذِلُّ مَنْ تَشَاءُ ۖ بِيَدِكَ الْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ﴿٢٦﴾ تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ ۖ وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ ۖ وَتَرْزُقُ مَنْ تَشَاءُ بِغَيْرِ حِسَابٍ ﴿٢٧﴾",
+      "tr_okunus": "Kulillâhümme mâlike'l-mülki tü'ti'l-mülke men teşâ'ü ve tenziu'l-mülke mimmen teşâ'ü ve tüizzü men teşâ'ü ve tüzillü men teşâ', bi-yedike'l-hayr, inneke alâ külli şey'in kadîr. Tûlicü'l-leyle fi'n-nehâri ve tûlicü'n-nehâra fi'l-leyli ve tuhricü'l-hayye mine'l-meyyiti ve tuhricü'l-meyyite mine'l-hayy, ve terzüku men teşâ'ü bi-gayri hisâb.",
+      "tr_anlam": "De ki: Ey mülkün gerçek sahibi olan Allah'ım! Sen mülkü dilediğine verirsin, dilediğinden de çeker alırsın. Dilediğini aziz kılar, dilediğini zelil edersin. Bütün hayır Senin elindedir. Şüphesiz Sen her şeye hakkıyla kādirsin. Geceyi gündüze katar, gündüzü de geceye katarsın. Ölüden diriyi çıkarır, diriden ölüyü çıkarırsın. Dilediğine hesapsız rızık verirsin."
+    },
+    {
+      "id": 15,
+      "title": "Meşhur Bereket (Karınca) Duası",
+      "category": "bereket",
+      "categoryLabel": "🌾 Bereket & Rızık",
+      "count": 1,
+      "source": "Ehl-i Sünnet Âlimleri ve Meşâyih-ı Kirâm Nakli",
+      "virtue": "Dükkanda, evde veya cüzdanda rızık darlığını gidermek, işlerin açılması ve kazancın bereketlenmesi niyetiyle okunur.",
+      "ar": "اللَّهُمَّ يَا رَبِّ لَا إِلَهَ إِلَّا أَنْتَ رَبُّ الْعَرْشِ الْعَظِيمِ، يَا حَيُّ يَا قَيُّومُ، ارْزُقْنَا رِزْقًا حَلَالًا طَيِّبًا مُبَارَكًا فِيهِ، وَبَارِكْ لَنَا فِي كَسْبِنَا وَأَهْلِنَا وَمَالِنَا، بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ",
+      "tr_okunus": "Allâhümme yâ rabbî lâ ilâhe illâ ente rabbü'l-arşi'l-azîm. Yâ Hayyu Yâ Kayyûm, erzuknâ rızkan halâlen tayyiben mübâreken fîh, ve bârik lenâ fî kesbinâ ve ehlinâ ve mâlinâ, bi-rahmetike yâ erhamer-râhimîn.",
+      "tr_anlam": "Ey Rabbim olan Allah'ım! Senden başka ilah yoktur; Sen yüce Arş'ın Rabbisin. Ey daima diri olan Hayy, ey bütün kâinatı yöneten Kayyûm! Bize içinde bereket olan helal ve tertemiz rızıklar ihsan eyle. Kazancımıza, ailemize ve malımıza bereket ver, merhametinle ey merhametlilerin en merhametlisi!"
+    },
+    {
+      "id": 16,
+      "title": "Ağır Borç ve Fakirlikten Korunma Duası",
+      "category": "bereket",
+      "categoryLabel": "🌾 Bereket & Rızık",
+      "count": 3,
+      "source": "Ebû Dâvûd (1555), Nesâî (5485)",
+      "virtue": "Peygamberimiz sabah-akşam bu dua ile fakirlikten, borç altında ezilmekten ve mahcubiyetten Allah'a sığınırdı.",
+      "ar": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ، وَأَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، لَا إِلَهَ إِلَّا أَنْتَ",
+      "tr_okunus": "Allâhümme innî eûzü bike mine'l-küfri ve'l-fakr, ve eûzü bike min azâbi'l-kabr, lâ ilâhe illâ ente.",
+      "tr_anlam": "Allah'ım! Küfürden ve fakirlikten Sana sığınırım. Kabir azabından da Sana sığınırım. Senden başka hiçbir ilah yoktur."
+    },
+    {
+      "id": 17,
+      "title": "Rızık ve Mağfiret Kapsayıcı Dua",
+      "category": "bereket",
+      "categoryLabel": "🌾 Bereket & Rızık",
+      "count": 3,
+      "source": "Sahîh-i Müslim (2697)",
+      "virtue": "Bir kimse Müslüman olduğunda Peygamber Efendimiz ona bu duayı öğretir ve: 'Bu dua senin dünyanı da ahiretini de içine alır' buyururdu.",
+      "ar": "اللَّهُمَّ اغْفِرْ لِي وَارْحَمْنِي وَاهْدِنِي وَعَافِنِي وَارْزُقْنِي",
+      "tr_okunus": "Allâhümmağfirlî verhamnî vehdinî ve âfinî verzuknî.",
+      "tr_anlam": "Allah'ım! Beni bağışla, bana merhamet et, beni doğru yola ilet, bana sıhhat ve âfiyet ver ve beni rızıklandır."
+    },
+    {
+      "id": 18,
+      "title": "Kazanç ve Mahsule Bereket Duası",
+      "category": "bereket",
+      "categoryLabel": "🌾 Bereket & Rızık",
+      "count": 1,
+      "source": "Sahîh-i Müslim (1373)",
+      "virtue": "Yeni bir rızık, kazanç, maaş veya ticaret malı geldiğinde bereket için okunur.",
+      "ar": "اللَّهُمَّ بَارِكْ لَنَا فِي ثَمَرِنَا وَبَارِكْ لَنَا فِي مَدِينَتِنَا وَبَارِكْ لَنَا فِي صَاعِنَا وَبَارِكْ لَنَا فِي مُدِّنَا",
+      "tr_okunus": "Allâhümme bârik lenâ fî semerinâ, ve bârik lenâ fî medînetinâ, ve bârik lenâ fî sâinâ ve bârik lenâ fî müddinâ.",
+      "tr_anlam": "Allah'ım! Ürünlerimize ve kazancımıza bereket ver, şehrimize bereket ver, ölçümüze ve tartımıza bereket ver."
+    },
+    {
+      "id": 19,
+      "title": "Hz. Yûnus'un (a.s.) İsm-i Âzam Duası",
+      "category": "sikinti",
+      "categoryLabel": "🤲 Sıkıntı & Ferahlık",
+      "count": 33,
+      "source": "Kur'ân-ı Kerîm | Enbiyâ Sûresi: 87 (Tirmizî 3505)",
+      "virtue": "Efendimiz (s.a.v.) buyurdu: 'Balığın karnında Yûnus'un yaptığı bu dua ile dua edip de duası kabul edilmeyen hiçbir Müslüman yoktur.'",
+      "ar": "لَا إِلَٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+      "tr_okunus": "Lâ ilâhe illâ ente sübhâneke innî küntü mine'z-zâlimîn.",
+      "tr_anlam": "Senden başka hiçbir ilah yoktur. Seni her türlü noksanlıktan tenzih ederim. Gerçekten ben kendi nefsine zulmedenlerden oldum!"
+    },
+    {
+      "id": 20,
+      "title": "Hasbünallâh (Tevekkül ve Kifayet Zikri)",
+      "category": "sikinti",
+      "categoryLabel": "🤲 Sıkıntı & Ferahlık",
+      "count": 7,
+      "source": "Kur'ân-ı Kerîm | Âl-i İmrân: 173 (Sahîh-i Buhârî)",
+      "virtue": "Hz. İbrahim ateşe atılırken ve Hz. Muhammed (s.a.v.) düşman ordusu yaklaştığında bu zikri söyledi; ateş gülistana döndü, düşman dağıldı.",
+      "ar": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ ﴿١٧٣﴾ نِعْمَ الْمَوْلَىٰ وَنِعْمَ النَّصِيرُ",
+      "tr_okunus": "Hasbünallâhu ve ni'me'l-vekîl. Ni'me'l-mevlâ ve ni'me'n-nasîr.",
+      "tr_anlam": "Allah bize yeter; O ne güzel vekildir! O ne güzel dost ve ne güzel yardımcıdır!"
+    },
+    {
+      "id": 21,
+      "title": "Lâ Havle (Cennet Hazinesi ve Dertlerin İlacı)",
+      "category": "sikinti",
+      "categoryLabel": "🤲 Sıkıntı & Ferahlık",
+      "count": 33,
+      "source": "Sahîh-i Buhârî (6384), Sahîh-i Müslim (2704)",
+      "virtue": "Efendimiz (s.a.v.) buyurdu: 'Lâ havle zikri doksan dokuz derde devadır; bu dertlerin en hafifi ise gam, keder ve hüzündür.'",
+      "ar": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
+      "tr_okunus": "Lâ havle ve lâ kuvvete illâ billâhi'l-aliyyi'l-azîm.",
+      "tr_anlam": "Günahtan kaçınmaya güç ve ibadet etmeye kuvvet ancak pek yüce ve pek büyük olan Allah'ın yardımıyladır."
+    },
+    {
+      "id": 22,
+      "title": "Gam, Keder, Borç ve Tembellikten Sığınma",
+      "category": "sikinti",
+      "categoryLabel": "🤲 Sıkıntı & Ferahlık",
+      "count": 3,
+      "source": "Sahîh-i Buhârî (2893)",
+      "virtue": "Peygamber Efendimiz'in en çok yaptığı dualardandır. İç daralmasını, borç ezikliğini ve çaresizlik hissini kökten çözer.",
+      "ar": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَأَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ، وَأَعُوذُ بِكَ مِنَ الْجُبْنِ وَالْبُخْلِ، وَأَعُوذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَقَهْرِ الرِّجَالِ",
+      "tr_okunus": "Allâhümme innî eûzü bike mine'l-hemmi ve'l-hazen, ve eûzü bike mine'l-aczi ve'l-kesel, ve eûzü bike mine'l-cübni ve'l-buhl, ve eûzü bike min galebeti'd-deyni ve kahri'r-ricâl.",
+      "tr_anlam": "Allah'ım! Gam ve kederden Sana sığınırım. Çaresizlik ve tembellikten Sana sığınırım. Korkaklık ve cimrilikten Sana sığınırım. Borcun belimi bükmesinden ve insanların (zorbaların) üzerime tahakküm kurmasından Sana sığınırım."
+    },
+    {
+      "id": 23,
+      "title": "Büyük Sıkıntı ve Bunalım Duası (Kürb Duası)",
+      "category": "sikinti",
+      "categoryLabel": "🤲 Sıkıntı & Ferahlık",
+      "count": 3,
+      "source": "Sahîh-i Buhârî (6345), Sahîh-i Müslim (2730)",
+      "virtue": "İbni Abbas (r.a.) nakleder: Resûlullah (s.a.v.) dayanılması güç büyük bir darlık, keder ve imtihanla karşılaştığında bu duayı okurdu.",
+      "ar": "لَا إِلَهَ إِلَّا اللَّهُ الْعَظِيمُ الْحَلِيمُ، لَا إِلَهَ إِلَّا اللَّهُ رَبُّ الْعَرْشِ الْعَظِيمِ، لَا إِلَهَ إِلَّا اللَّهُ رَبُّ السَّمَاوَاتِ وَرَبُّ الْأَرْضِ وَرَبُّ الْعَرْشِ الْكَرِيمِ",
+      "tr_okunus": "Lâ ilâhe illallâhu'l-azîmü'l-halîm. Lâ ilâhe illallâhu rabbü'l-arşi'l-azîm. Lâ ilâhe illallâhu rabbü's-semâvâti ve rabbü'l-ardı ve rabbü'l-arşi'l-kerîm.",
+      "tr_anlam": "Azîm (azametli) ve Halîm (kullarına yumuşaklıkla muamele eden) Allah'tan başka ilah yoktur. Yüce Arş'ın Rabbi olan Allah'tan başka ilah yoktur. Göklerin Rabbi, yerin Rabbi ve pek şerefli Arş'ın Rabbi olan Allah'tan başka ilah yoktur."
+    },
+    {
+      "id": 24,
+      "title": "Çaresizlik Ânında İmdat Duası",
+      "category": "sikinti",
+      "categoryLabel": "🤲 Sıkıntı & Ferahlık",
+      "count": 3,
+      "source": "Sünen-i Tirmizî (3524) - Sahih",
+      "virtue": "Enes b. Mâlik (r.a.) der ki: 'Nebi (s.a.v.) bir iş kendisine keder verdiğinde hemen: Yâ Hayyu Yâ Kayyûm derdi.'",
+      "ar": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ، أَصْلِحْ لِي شَأْنِي كُلَّهُ، وَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ",
+      "tr_okunus": "Yâ Hayyu Yâ Kayyûm, bi-rahmetike esteğîs, aslih lî şe'nî külleh, ve lâ tekilnî ilâ nefsî tarfete ayn.",
+      "tr_anlam": "Ey daima diri olan Hayy, ey bütün varlığı idare eden Kayyûm! Rahmetinle Senden yardım diliyorum. Benim bütün hallerimi ıslah eyle ve beni göz açıp kapayıncaya kadar bile olsa nefsimin eline bırakma!"
+    },
+    {
+      "id": 25,
+      "title": "Zorluğu Kolaylaştırma Duası",
+      "category": "sikinti",
+      "categoryLabel": "🤲 Sıkıntı & Ferahlık",
+      "count": 3,
+      "source": "Sahîh-i İbni Hibbân (972)",
+      "virtue": "Çıkmaza giren bir işi, düğümü veya zorlu bir resmi/maddi meseleyi çözmek için okunur.",
+      "ar": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا",
+      "tr_okunus": "Allâhümme lâ sehle illâ mâ cealtehû sehlâ, ve ente tec'alü'l-hazne izâ şi'te sehlâ.",
+      "tr_anlam": "Allah'ım! Senin kolay kıldığından başka hiçbir kolaylık yoktur. Sen dilediğin zaman zor ve sert olanı kolaylaştırırsın."
+    },
+    {
+      "id": 26,
+      "title": "Sabır ve Metanet Talebi Duası",
+      "category": "sikinti",
+      "categoryLabel": "🤲 Sıkıntı & Ferahlık",
+      "count": 1,
+      "source": "Kur'ân-ı Kerîm | Bakara Sûresi: 250",
+      "virtue": "Ağır imtihanlarda, musibet ve sarsıntılarda kalbe sebat ve dayanma gücü verir.",
+      "ar": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "tr_okunus": "Rabbenâ efriğ aleynâ sabran ve sebbit akdâmenâ vensurnâ ale'l-kavmi'l-kâfirîn.",
+      "tr_anlam": "Ey Rabbimiz! Üzerimize sağanak sağanak sabır yağdır, ayaklarımızı sabit kıl ve hakikati inkâr eden topluluğa karşı bize yardım et."
+    },
+    {
+      "id": 27,
+      "title": "Gönül Genişliği ve Ferahlık Duası",
+      "category": "sikinti",
+      "categoryLabel": "🤲 Sıkıntı & Ferahlık",
+      "count": 3,
+      "source": "Kur'ân-ı Kerîm | Tâhâ Sûresi: 25-28",
+      "virtue": "Hz. Musa'nın duasıdır. Göğüsteki daralmayı, konuşma güçlüğünü ve işlerin zorluğunu bertaraf eder.",
+      "ar": "رَبِّ اشْرَحْ لِي صَدْرِي ﴿٢٥﴾ وَيَسِّرْ لِي أَمْرِي ﴿٢٦﴾ وَاحْلُلْ عُقْدَةً مِنْ لِسَانِي ﴿٢٧﴾ يَفْقَهُوا قَوْلِي ﴿٢٨﴾",
+      "tr_okunus": "Rabbi'şrah lî sadrî. Ve yessir lî emrî. Vahlül ukdeten min lisânî. Yefkahû kavlî.",
+      "tr_anlam": "Rabbim! Göğsüme genişlik ver. İşimi bana kolaylaştır. Dilimin bağını çöz ki sözümü iyice anlasınlar."
+    },
+    {
+      "id": 28,
+      "title": "Peygamberimiz'in Hastalara Okuduğu Şifa Duası",
+      "category": "sifa",
+      "categoryLabel": "🌿 Şifa & Sağlık",
+      "count": 3,
+      "source": "Sahîh-i Buhârî (5743), Sahîh-i Müslim (2191)",
+      "virtue": "Hz. Âişe (r.a.) anlatıyor: Resûlullah (s.a.v.) ailesinden biri hastalandığında sağ eliyle hastayı mesheder ve bu dua ile şifa dilerdi.",
+      "ar": "اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَأْسَ، اشْفِ أَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ، شِفَاءً لَا يُغَادِرُ سَقَمًا",
+      "tr_okunus": "Allâhümme rabbe'n-nâs, ezhibi'l-be's, işfi ente'ş-şâfî, lâ şifâ'e illâ şifâ'ük, şifâ'en lâ yüğâdiru sekamâ.",
+      "tr_anlam": "Ey insanların Rabbi olan Allah'ım! Bu ızdırabı gider, şifa ver! Şifayı veren ancak Sensin. Senin şifandan başka hiçbir şifa yoktur; öyle bir şifa ver ki geride hiçbir hastalık ve illet bırakmasın!"
+    },
+    {
+      "id": 29,
+      "title": "Ağrıyan Yere El Koyarak Okunan Dua",
+      "category": "sifa",
+      "categoryLabel": "🌿 Şifa & Sağlık",
+      "count": 7,
+      "source": "Sahîh-i Müslim (2202)",
+      "virtue": "Osman b. Ebi'l-Âs vücudundaki dinmeyen ağrıdan şikayet ettiğinde Efendimiz ona elini ağrıyan yere koyup 3 defa Bismillah, 7 defa bu duayı okumasını emretti; şifa buldu.",
+      "ar": "بِسْمِ اللَّهِ (٣ مَرَّاتٍ)\nأَعُوذُ بِعِزَّةِ اللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ (٧ مَرَّاتٍ)",
+      "tr_okunus": "Bismillâh (3 defa). Eûzü bi-izzetillâhi ve kudretihî min şerri mâ ecidü ve uhâzir (7 defa).",
+      "tr_anlam": "Allah'ın adıyla (3x). Hissettiğim ve çekindiğim bu sancının / hastalığın şerrinden Allah'ın izzetine ve kudretine sığınırım (7x)."
+    },
+    {
+      "id": 30,
+      "title": "Cebrail'in (a.s.) Efendimiz'e Okuduğu Rukye",
+      "category": "sifa",
+      "categoryLabel": "🌿 Şifa & Sağlık",
+      "count": 3,
+      "source": "Sahîh-i Müslim (2186)",
+      "virtue": "Cebrail (a.s.) Peygamberimiz rahatsızlandığında yanına gelip bu dua ile nefes etmiş ve Allah'ın izniyle şifa ihsan olunmuştur.",
+      "ar": "بِسْمِ اللَّهِ أَرْقِيكَ، مِنْ كُلِّ شَيْءٍ يُؤْذِيكَ، مِنْ شَرِّ كُلِّ نَفْسٍ أَوْ عَيْنِ حَاسِدٍ، اللَّهُ يَشْفِيكَ، بِسْمِ اللَّهِ أَرْقِيكَ",
+      "tr_okunus": "Bismillâhi erkîke, min külli şey'in yü'zîke, min şerri külli nefsin ev ayni hâsid, Allâhu yeşfîke, bismillâhi erkîke.",
+      "tr_anlam": "Sana eziyet veren her şeyden, her kötü nefsin ve hasetçi gözün şerrinden Allah'ın adıyla sana şifa dilerim. Allah sana şifa versin. Allah'ın adıyla sana dua ederim."
+    },
+    {
+      "id": 31,
+      "title": "Hz. Eyyûb'un (a.s.) Şifa Âyeti",
+      "category": "sifa",
+      "categoryLabel": "🌿 Şifa & Sağlık",
+      "count": 7,
+      "source": "Kur'ân-ı Kerîm | Enbiyâ Sûresi: 83",
+      "virtue": "Ağır ve müzmin hastalıklardan, bedenî yaralardan kurtulmak için Ehl-i Sünnet büyüklerinin en çok tavsiye ettiği ayettir.",
+      "ar": "أَنِّي مَسَّنِيَ الضُّرُّ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ",
+      "tr_okunus": "Ennî messeniye'd-durru ve ente erhamü'r-râhimîn.",
+      "tr_anlam": "Şüphesiz ki bu dert bana dokundu (beni yıprattı); Sen ise merhametlilerin en merhametlisisin!"
+    },
+    {
+      "id": 32,
+      "title": "Kur'ân-ı Kerîm Şifa Âyeti",
+      "category": "sifa",
+      "categoryLabel": "🌿 Şifa & Sağlık",
+      "count": 3,
+      "source": "Kur'ân-ı Kerîm | İsrâ Sûresi: 82",
+      "virtue": "Gönüllere, ruhlara ve bedenlere Kur'an'ın şifa nurlarını celbeder.",
+      "ar": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِلْمُؤْمِنِينَ",
+      "tr_okunus": "Ve nünezzilü mine'l-kur'âni mâ hüve şifâün ve rahmetün li'l-mü'minîn.",
+      "tr_anlam": "Biz Kur'an'dan, mü'minler için bir şifa ve bir rahmet olan ayetleri indiriyoruz."
+    },
+    {
+      "id": 33,
+      "title": "Salavât-ı Tıbbiyye (Kalp ve Beden Tabibi)",
+      "category": "sifa",
+      "categoryLabel": "🌿 Şifa & Sağlık",
+      "count": 7,
+      "source": "Ehl-i Sünnet Salavat Mecmuaları (Delâilü'l-Hayrât)",
+      "virtue": "Kalp sıkışması, göz zayıflığı, beden halsizliği ve ruhi bunalımlara karşı manevi reçetedir.",
+      "ar": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ طِبِّ الْقُلُوبِ وَدَوَائِهَا، وَعَافِيَةِ الْأَبْدَانِ وَشِفَائِهَا، وَنُورِ الْأَبْصَارِ وَضِيَائِهَا، وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ",
+      "tr_okunus": "Allâhümme salli alâ seyyidinâ Muhammedin tıbbi'l-kulûbi ve devâihâ, ve âfiyeti'l-ebdâni ve şifâihâ, ve nûri'l-ebsâri ve diyâihâ, ve alâ âlihî ve sahbihî ve sellim.",
+      "tr_anlam": "Allah'ım! Kalplerin tabibi ve devası, bedenlerin afiyeti ve şifası, gözlerin nuru ve ziyası olan Efendimiz Muhammed'e, âline ve ashabına salât ve selâm eyle."
+    },
+    {
+      "id": 34,
+      "title": "Dünya ve Âhiret Âfiyet Duası",
+      "category": "sifa",
+      "categoryLabel": "🌿 Şifa & Sağlık",
+      "count": 3,
+      "source": "Ebû Dâvûd (5074), İbni Mâce (3871) - Sahih",
+      "virtue": "Efendimiz (s.a.v.): 'Allah'tan af ve âfiyet isteyiniz. İmandan sonra hiç kimseye afiyetten daha hayırlı bir şey verilmemiştir' buyurdu.",
+      "ar": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ، اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي",
+      "tr_okunus": "Allâhümme innî es'elüke'l-afve ve'l-âfiyete fi'd-dünyâ ve'l-âhireh. Allâhümme innî es'elüke'l-afve ve'l-âfiyete fî dînî ve dünyâye ve ehlî ve mâlî.",
+      "tr_anlam": "Allah'ım! Senden dünyada ve ahirette af ve âfiyet (sağlık ve esenlik) dilerim. Allah'ım! Dinim, dünyam, ailem ve malım hakkında Senden af ve âfiyet dilerim."
+    },
+    {
+      "id": 35,
+      "title": "Seyyidü'l-İstiğfâr (Tevbelerin Şahı)",
+      "category": "sabah_aksam",
+      "categoryLabel": "🌅 Sabah & Akşam",
+      "count": 1,
+      "source": "Sahîh-i Buhârî (6306)",
+      "virtue": "Efendimiz (s.a.v.) müjdeledi: 'Kim bunu gündüz inanarak okuyup o gün akşama ermeden ölürse cennetliktir. Akşam okuyup sabaha ermeden ölürse yine cennetliktir.'",
+      "ar": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+      "tr_okunus": "Allâhümme ente rabbî lâ ilâhe illâ ente, halaktenî ve ene abdük, ve ene alâ ahdike ve va'dike mesteta't, eûzü bike min şerri mâ sana't, ebû'ü leke bi-ni'metike aleyye ve ebû'ü bi-zenbî fağfirlî fe-innehû lâ yağfiru'z-zünûbe illâ ente.",
+      "tr_anlam": "Allah'ım! Sen benim Rabbimsin; Senden başka ilah yoktur. Beni Sen yarattın, ben Senin kulunum ve gücüm yettiğince Sana verdiğim ahit ve vaad üzereyim. Yaptığım şeylerin şerrinden Sana sığınırım. Bana verdiğin nimetini itiraf ederim, günahımı da itiraf ederim; beni bağışla! Zira günahları Senden başkası bağışlayamaz."
+    },
+    {
+      "id": 36,
+      "title": "Âmenerrasûlü (Bakara Sûresi Son İki Âyet)",
+      "category": "sabah_aksam",
+      "categoryLabel": "🌅 Sabah & Akşam",
+      "count": 1,
+      "source": "Sahîh-i Buhârî (5009), Sahîh-i Müslim (808)",
+      "virtue": "Efendimiz (s.a.v.) buyurdu: 'Kim geceleyin Bakara Suresi'nin son iki ayetini okursa, bu iki ayet ona her türlü şerre karşı kafi gelir.'",
+      "ar": "آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهِ ۚ وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ ﴿٢٨٥﴾ لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ ﴿٢٨٦﴾",
+      "tr_okunus": "Âmene'r-rasûlü bi-mâ ünzile ileyhi min rabbihî ve'l-mü'minûn. Küllün âmene billâhi ve melâiketihî ve kütübihî ve rusulih, lâ nüferriku beyne ehadin min rusulih, ve kâlû semi'nâ ve eta'nâ gufrâneke rabbenâ ve ileyke'l-masîr. Lâ yükellifullâhu nefsen illâ vüs'ahâ, lehâ mâ kesebet ve aleyhâ mektesebet, rabbenâ lâ tü'âhiznâ in nesînâ ev ahta'nâ, rabbenâ ve lâ tahmil aleynâ ısran kemâ hameltehû alellezîne min kablinâ, rabbenâ ve lâ tühammilnâ mâ lâ tâkate lenâ bih, va'fü annâ vağfir lenâ verhamnâ, ente mevlânâ fensurnâ ale'l-kavmi'l-kâfirîn.",
+      "tr_anlam": "Peygamber, Rabbinden kendisine indirilene iman etti, mü'minler de. Hepsi Allah'a, meleklerine, kitaplarına ve peygamberlerine inandı: 'Biz O'nun peygamberleri arasından hiçbirini ayırt etmeyiz' dediler. 'İşittik ve itaat ettik; bağışlamanı dileriz ey Rabbimiz, dönüş ancak Sanadır' dediler. Allah hiçbir kimseye gücünün yettiğinden fazlasını yüklemez. Kazandığı hayır lehine, yaptığı kötülük de aleyhinedir. Ey Rabbimiz! Unutursak veya hata edersek bizi sorumlu tutma! Ey Rabbimiz! Bize, bizden öncekilere yüklediğin gibi ağır yük yükleme! Ey Rabbimiz! Gücümüzün yetmeyeceği şeyi bize taşıtma! Bizi affet, bizi bağışla, bize merhamet et! Sen bizim Mevlâmızsın; kâfirler topluluğuna karşı bize yardım eyle!"
+    },
+    {
+      "id": 37,
+      "title": "Haşr Sûresi Son Üç Âyeti (70 Bin Melek İstiğfârı)",
+      "category": "sabah_aksam",
+      "categoryLabel": "🌅 Sabah & Akşam",
+      "count": 1,
+      "source": "Sünen-i Tirmizî (2922) - Hasen Hadis",
+      "virtue": "Sabah veya akşam 'Eûzü billâhi's-semîi'l-alîmi mine'ş-şeytânirracîm' diyerek bu ayetleri okuyana 70 bin melek akşama/sabaha kadar dua eder; ölürse şehit hükmündedir.",
+      "ar": "هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَٰنُ الرَّحِيمُ ﴿٢٢﴾ هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ ۚ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ ﴿٢٣﴾ هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ ﴿٢٤﴾",
+      "tr_okunus": "Hüvallâhüllezî lâ ilâhe illâ hû, âlimü'l-gaybi ve'ş-şehâdeh, hüve'r-rahmânü'r-rahîm. Hüvallâhüllezî lâ ilâhe illâ hû, el-melikü'l-kuddûsü's-selâmü'l-mü'minü'l-müheyminü'l-azîzü'l-cebbâru'l-mütekebbir, sübhânallâhi ammâ yüşrikûn. Hüvallâhu'l-hâliku'l-bâriü'l-musavviru lehu'l-esmâ'ü'l-hüsnâ, yüsebbihu lehû mâ fi's-semâvâti ve'l-ard, ve hüve'l-azîzü'l-hakîm.",
+      "tr_anlam": "O, kendisinden başka hiçbir ilah olmayan Allah'tır. Gaybı da görünen âlemi de bilendir. O, Rahmân'dır, Rahîm'dir. O, kendisinden başka ilah olmayan Allah'tır; Melik'tir, Kuddûs'tür, Selâm'dır, Mü'min'dir, Müheymin'dir, Azîz'dir, Cebbâr'dır, Mütekebbir'dir. Allah, onların ortak koştuklarından münezzehtir. O; Yaratan, yoktan var eden, şekil veren Allah'tır. En güzel isimler O'nundur. Göklerde ve yerde olanlar O'nu tesbih eder. O, Azîz'dir, Hakîm'dir."
+    },
+    {
+      "id": 38,
+      "title": "Sabah Şükür ve Tevhid Virdi",
+      "category": "sabah_aksam",
+      "categoryLabel": "🌅 Sabah & Akşam",
+      "count": 1,
+      "source": "Sahîh-i Müslim (2723)",
+      "virtue": "Güne Allah'a teslimiyetle ve mülkün gerçek sahibini hatırlayarak bereketle başlamak için okunur.",
+      "ar": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "tr_okunus": "Asbahnâ ve asbaha'l-mülkü lillâhi ve'l-hamdü lillâh, lâ ilâhe illallâhu vahdehû lâ şerîke leh, lehü'l-mülkü ve lehü'l-hamdü ve hüve alâ külli şey'in kadîr.",
+      "tr_anlam": "Sabaha erdik; mülk de bütünüyle Allah'ındır. Hamd Allah'a mahsustur. Allah'tan başka hiçbir ilah yoktur; O tektir, ortağı yoktur. Mülk O'nundur, hamd O'nadır ve O her şeye hakkıyla kādirdir."
+    },
+    {
+      "id": 39,
+      "title": "Akşam Sığınma ve Selamet Virdi",
+      "category": "sabah_aksam",
+      "categoryLabel": "🌅 Sabah & Akşam",
+      "count": 1,
+      "source": "Sahîh-i Müslim (2723)",
+      "virtue": "Günün yorgunluğunu üzerimizden atmak ve geceyi emniyet ve huzur içinde geçirmek için okunur.",
+      "ar": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ، رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَذِهِ اللَّيْلَةِ وَخَيْرَ مَا بَعْدَهَا، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِي هَذِهِ اللَّيْلَةِ وَشَرِّ مَا بَعْدَهَا",
+      "tr_okunus": "Emseynâ ve emse'l-mülkü lillâhi ve'l-hamdü lillâh. Rabbi es'elüke hayra mâ fî hâzihi'l-leyle ve hayra mâ ba'dehâ, ve eûzü bike min şerri mâ fî hâzihi'l-leyle ve şerri mâ ba'dehâ.",
+      "tr_anlam": "Akşama erdik; mülk de bütünüyle Allah'ındır. Hamd Allah'a mahsustur. Rabbim! Bu gecenin hayrını ve bundan sonrakilerin hayrını Senden dilerim. Bu gecenin şerrinden ve bundan sonrakilerin şerrinden de Sana sığınırım."
+    },
+    {
+      "id": 40,
+      "title": "Günde 7 Kez Okunan Kifayet Duası",
+      "category": "sabah_aksam",
+      "categoryLabel": "🌅 Sabah & Akşam",
+      "count": 7,
+      "source": "Ebû Dâvûd (5081) - Sahih senet",
+      "virtue": "Efendimiz (s.a.v.) buyurdu: 'Kim sabah ve akşam 7 defa bunu okursa, dünya ve ahiret gam ve kederine karşı Allah ona kâfi gelir.'",
+      "ar": "حَسْبِيَ اللَّهُ لَا إِلَهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+      "tr_okunus": "Hasbiyallâhu lâ ilâhe illâ hû, aleyhi tevekkeltü ve hüve rabbü'l-arşi'l-azîm.",
+      "tr_anlam": "Allah bana yeter! O'ndan başka hiçbir ilah yoktur. Ben yalnız O'na tevekkül ettim ve O, yüce Arş'ın Rabbidir."
+    },
+    {
+      "id": 41,
+      "title": "İhlâs Sûresi (Tevhidin Özü)",
+      "category": "sabah_aksam",
+      "categoryLabel": "🌅 Sabah & Akşam",
+      "count": 3,
+      "source": "Kur'ân-ı Kerîm | İhlâs Sûresi (Buhârî)",
+      "virtue": "Peygamberimiz: 'İhlas Suresi Kur'an'ın üçte birine denktir. Her gün 3 defa okuyan tüm Kur'an'ı hatmetmiş gibi sevap kazanır' buyurdu.",
+      "ar": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nقُلْ هُوَ اللَّهُ أَحَدٌ ﴿١﴾ اللَّهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ ﴿٤﴾",
+      "tr_okunus": "Bismillâhirrahmânirrahîm. Kul hüvallâhu ehad. Allâhü's-samed. Lem yelid ve lem yûled. Ve lem yekün lehû küfüven ehad.",
+      "tr_anlam": "De ki: O Allah tektir. Allah Samed'dir (her şey O'na muhtaçtır, O hiçbir şeye muhtaç değildir). O doğurmamış ve doğurulmamıştır. Hiçbir şey O'nun dengi ve benzeri olmamıştır."
+    },
+    {
+      "id": 42,
+      "title": "Günahları Döken ve Mizanda Ağır Gelen Zikir",
+      "category": "sabah_aksam",
+      "categoryLabel": "🌅 Sabah & Akşam",
+      "count": 100,
+      "source": "Sahîh-i Buhârî (6405), Sahîh-i Müslim (2691)",
+      "virtue": "Efendimiz (s.a.v.) buyurdu: 'Dile hafif, mizanda ağır, Rahmân'a pek sevimli iki kelime: Sübhânallâhi ve bi-hamdihî, Sübhânallâhi'l-azîm.'",
+      "ar": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
+      "tr_okunus": "Sübhânallâhi ve bi-hamdihî, sübhânallâhi'l-azîm.",
+      "tr_anlam": "Allah'ı hamd ile tesbih ederim; yüce ve azamet sahibi olan Allah'ı her türlü eksiklikten tenzih ederim."
+    },
+    {
+      "id": 43,
+      "title": "Tevhidin En Faziletli Kelimesi",
+      "category": "sabah_aksam",
+      "categoryLabel": "🌅 Sabah & Akşam",
+      "count": 10,
+      "source": "Sahîh-i Buhârî (3293), Sahîh-i Müslim (2693)",
+      "virtue": "Günde 100 veya 10 kez okuyana 10 köle azat etmiş sevabı verilir, 100 günahı silinir, 100 sevap yazılır ve akşama kadar şeytandan korunur.",
+      "ar": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "tr_okunus": "Lâ ilâhe illallâhu vahdehû lâ şerîke leh, lehü'l-mülkü ve lehü'l-hamdü ve hüve alâ külli şey'in kadîr.",
+      "tr_anlam": "Allah'tan başka ilah yoktur; O tektir, ortağı yoktur. Mülk O'nundur, hamd O'nadır ve O her şeye hakkıyla kādirdir."
+    },
+    {
+      "id": 44,
+      "title": "Evden Çıkarken Okunacak Korunma Duası",
+      "category": "gunluk",
+      "categoryLabel": "🏠 Günlük Hayat",
+      "count": 1,
+      "source": "Sünen-i Tirmizî (3426), Ebû Dâvûd (5095)",
+      "virtue": "Efendimiz (s.a.v.) buyurdu: 'Evinden çıkarken bu duayı okuyan kimseye melekler: Sana hidayet verildi, korundun ve kifayet edildin derler; şeytan da ondan uzaklaşır.'",
+      "ar": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "tr_okunus": "Bismillâhi tevekkeltü alallâh, lâ havle ve lâ kuvvete illâ billâh.",
+      "tr_anlam": "Allah'ın adıyla! Ben Allah'a tevekkül ettim. O'ndan başka hiçbir güç ve kuvvet kaynağı yoktur."
+    },
+    {
+      "id": 45,
+      "title": "Eve Girerken Okunacak Selamet Duası",
+      "category": "gunluk",
+      "categoryLabel": "🏠 Günlük Hayat",
+      "count": 1,
+      "source": "Ebû Dâvûd (5096) - Sahih senet",
+      "virtue": "Eve girerken bu dua okunup selam verildiğinde şeytan: 'Bu evde bana ne geceleyecek yer ne de yiyecek var' der ve kaçar.",
+      "ar": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ الْمَوْلَجِ وَخَيْرَ الْمَخْرَجِ، بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا",
+      "tr_okunus": "Allâhümme innî es'elüke hayra'l-mevleci ve hayra'l-mahrec, bismillâhi velecnâ ve bismillâhi haracnâ ve alallâhi rabbinâ tevekkelnâ.",
+      "tr_anlam": "Allah'ım! Senden girişin de hayırlısını, çıkışın da hayırlısını dilerim. Allah'ın adıyla girdik, Allah'ın adıyla çıktık ve Rabbimiz olan Allah'a tevekkül ettik."
+    },
+    {
+      "id": 46,
+      "title": "Gece Uyumadan Önceki Dua",
+      "category": "gunluk",
+      "categoryLabel": "🏠 Günlük Hayat",
+      "count": 1,
+      "source": "Sahîh-i Buhârî (6312)",
+      "virtue": "Yatağa girildiğinde sağ tarafa dönüp bu dua okunduğunda gece meleklerin himayesinde huzurla uyunur.",
+      "ar": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+      "tr_okunus": "Bismike'llâhümme emûtü ve ahyâ.",
+      "tr_anlam": "Allah'ım! Senin adınla ölür (uyur) ve Senin adınla dirilirim (uyanırım)."
+    },
+    {
+      "id": 47,
+      "title": "Uykudan Hayırla Uyanınca Okunan Şükür",
+      "category": "gunluk",
+      "categoryLabel": "🏠 Günlük Hayat",
+      "count": 1,
+      "source": "Sahîh-i Buhârî (6312)",
+      "virtue": "Gözlerini açar açmaz yeni bir güne can bağışlayan Yüce Yaratıcı'ya şükretmek sünnettir.",
+      "ar": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+      "tr_okunus": "Elhamdü lillâhillezî ahyânâ ba'de mâ emâtenâ ve ileyhi'n-nüşûr.",
+      "tr_anlam": "Bizi öldükten (uyuduktan) sonra dirilten Allah'a hamdolsun. Kıyamette diriliş ve dönüş de ancak O'nadır."
+    },
+    {
+      "id": 48,
+      "title": "Yemekten Sonra Şükür ve Bereket Duası",
+      "category": "gunluk",
+      "categoryLabel": "🏠 Günlük Hayat",
+      "count": 1,
+      "source": "Sünen-i Tirmizî (3457), Ebû Dâvûd (3850)",
+      "virtue": "Sofradan kalkarken bu duayı okuyan kimsenin geçmiş küçük günahları bağışlanır ve rızkına şükür yazılır.",
+      "ar": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَ",
+      "tr_okunus": "Elhamdü lillâhillezî et'amenâ ve sekânâ ve cealenâ mine'l-müslimîn.",
+      "tr_anlam": "Bizi yediren, bizi içiren ve bizi Müslümanlardan kılan Allah'a sonsuz hamdolsun."
+    },
+    {
+      "id": 49,
+      "title": "Arabaya ve Vasıtaya Binerken Yolculuk Duası",
+      "category": "gunluk",
+      "categoryLabel": "🏠 Günlük Hayat",
+      "count": 1,
+      "source": "Kur'ân-ı Kerîm | Zuhruf: 13-14 (Sahîh-i Müslim)",
+      "virtue": "Her türlü vasıtaya (araba, otobüs, uçak) binerken kaza ve belalardan emin olmak için okunur.",
+      "ar": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ ﴿١٣﴾ وَإِنَّا إِلَىٰ رَبِّنَا لَمُنْقَلِبُونَ ﴿١٤﴾",
+      "tr_okunus": "Sübhânellezî sehhara lenâ hâzâ ve mâ künnâ lehû mukrinîn. Ve innâ ilâ rabbinâ le-münkalibûn.",
+      "tr_anlam": "Bunu bizim hizmetimize veren Allah her türlü eksiklikten münezzehtir; yoksa bizim buna gücümüz yetmezdi. Şüphesiz biz nihayetinde Rabbimize döneceğiz."
+    },
+    {
+      "id": 50,
+      "title": "Anne ve Baba İçin Kur'ânî Dua",
+      "category": "gunluk",
+      "categoryLabel": "🏠 Günlük Hayat",
+      "count": 3,
+      "source": "Kur'ân-ı Kerîm | İsrâ Sûresi: 24",
+      "virtue": "Anne ve babaya hayatta iken ve vefatlarından sonra yapılabilecek en faziletli Kur'an duasıdır.",
+      "ar": "رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+      "tr_okunus": "Rabbi'rhamhümâ kemâ rabbeyânî sagîrâ.",
+      "tr_anlam": "Rabbim! Onlar beni küçüklüğümde nasıl sevgi ve şefkatle büyüttülerse, Sen de onlara öylece merhamet buyur!"
+    },
+    {
+      "id": 51,
+      "title": "Hidayet ve İman Üzere Sebat Duası",
+      "category": "gunluk",
+      "categoryLabel": "🏠 Günlük Hayat",
+      "count": 3,
+      "source": "Kur'ân-ı Kerîm | Âl-i İmrân Sûresi: 8",
+      "virtue": "Son nefeste imanla gitmek ve haktan sapmamak için okunacak en tesirli ilahî duadır.",
+      "ar": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً ۚ إِنَّكَ أَنْتَ الْوَهَّابُ",
+      "tr_okunus": "Rabbenâ lâ tüziğ kulûbenâ ba'de iz hedeytenâ veheb lenâ min ledünke rahmeh, inneke ente'l-vehhâb.",
+      "tr_anlam": "Ey Rabbimiz! Bizi doğru yola ilettikten sonra kalplerimizi eğriltme (haktan saptırma). Bize katından bir rahmet ihsan eyle. Şüphesiz Sen, lütfu en bol olansın."
+    },
+    {
+      "id": 52,
+      "title": "Dünya ve Âhiret Saadeti Duası (Rabbenâ Âtinâ)",
+      "category": "gunluk",
+      "categoryLabel": "🏠 Günlük Hayat",
+      "count": 3,
+      "source": "Kur'ân-ı Kerîm | Bakara Sûresi: 201 (Buhârî, Müslim)",
+      "virtue": "Enes (r.a.) der ki: 'Nebi (s.a.v.)'in en çok yaptığı dua buydu.' Dünyanın da ahiretin de bütün hayırlarını toplayan en kapsamlı duadır.",
+      "ar": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "tr_okunus": "Rabbenâ âtinâ fi'd-dünyâ haseneten ve fi'l-âhireti haseneten ve kınâ azâbe'n-nâr.",
+      "tr_anlam": "Ey Rabbimiz! Bize dünyada da iyilik ve güzellik ver, ahirette de iyilik ve güzellik ver ve bizi cehennem azabından muhafaza eyle!"
+    }
+  ]
+}
